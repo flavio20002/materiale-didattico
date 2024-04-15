@@ -2,3 +2,12 @@ site_name: Prof. Flavio Barisi
 theme:
   name: material
   language: it
+
+nav:
+  - 'index.md'
+  - Sistemi 3° anno:
+    - 'sistemi-3/index.md'
+  - Sistemi 4° anno:
+    - 'sistemi-4/index.md'
+  - Sistemi 5° anno:
+    - 'sistemi-5/index.md'

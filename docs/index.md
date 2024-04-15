@@ -9,13 +9,13 @@ In questo sito potrete trovare appunti, dispense ed esercizi per gli studenti de
 
 ## Sistemi automatici
 
-[Classe terza](/Sistemi-Automatici-classe-terza)
+[Classe terza](/sistemi-3)
 
-[Classe quarta](/Sistemi-Automatici-classe-quarta)
+[Classe quarta](/sistemi-4)
 
-[Classe quinta](/Sistemi-Automatici-classe-quinta)
+[Classe quinta](/sistemi-5)
 
 
 ## Altre materie
 
-[Scienze e tecnologie applicate](/Sta-classe-seconda)
+[Scienze e tecnologie applicate](/sta)
