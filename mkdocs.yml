@@ -11,3 +11,6 @@ nav:
     - 'sistemi-4/index.md'
   - Sistemi 5° anno:
     - 'sistemi-5/index.md'
+
+plugins:
+    - mkdocs-video
