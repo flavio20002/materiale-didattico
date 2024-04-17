@@ -101,7 +101,6 @@ Di seguito viene descritto il principio di funzionamento.
 
 - Quando il segnale di ingresso CLK passa da livello logico **TRUE** a livello logico **FALSE**, l'uscita Q viene portata a livello logico **TRUE** solamente per un ciclo del PLC.
 
-
 ## Linguaggio ST
 
 ### Macchina a Stati
