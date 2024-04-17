@@ -1,0 +1,68 @@
+# Controllo di un motore in corrente continua
+
+In questo capitolo, andremo ad analizzare un esempio di controllo analogico per un motore a corrente continua che fa uso di una dinamo tachimetrica.
+
+## Motore in corrente continua
+
+Un motore in corrente continua è costiuito da uno statore a magnete permanente e da un rotore in ferro sul quale sono presenti degli avvolgimenti.
+
+- Uno statore a magnete permamente
+- Un rotore in ferro sul quale sono presenti degli avvolgimenti ed è la parte che ruota. È detto anche armatura.
+- Il commutatore si occupa di commutare il verso della corrente per sostenere la rotazione stabilendo un collegamento tra rotore e spazzole
+- Le spazzole sono collegate alla fonte di alimentazione
+
+<figure markdown="span">
+  ![Image title](images/motore_cc.png){ width="300" }
+  <figcaption markdown="span">
+    Motore in CC [Wapcaplet](https://en.wikipedia.org/wiki/User:Wapcaplet)
+    [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+  </figcaption>
+</figure>
+
+Un motore in corrente continua può essere rappresentato elettricamente dal seguente circuito:
+
+<figure markdown="span">
+  ![Image title](images/motore-cc-circuito.svg){ width="300" }
+  <figcaption markdown="span">
+    Circuito equivalente del motore in CC
+  </figcaption>
+</figure>
+
+dove $V_A$ è la tensione applicata all'armatura, $R$ è la resistenza delle spire, $L$ è l'induttanza delle spire. $E_C$ rappresenta la forza controelettromotrice che si oppone alla tensione di armatura quando il motore ruota.
+
+Trascurando l'induttanza $L$ che a regime si comporta come un cortocircuito, otteniamo la seguente equazione alla maglia:
+
+$$ V_A = R\cdot I + E_C $$
+
+Si può dimostrare che la forza controelettromotrice è legata alla velocità angolare di rotazione $\omega$ tramite una costante $K_E$ detta costante elettrica che dipende dal flusso magnetico e dal numero di spire dell'avvolgimento.
+
+$$ E_C = K_E \cdot \omega $$
+
+e dunque l'equazione diventa:
+
+$$ V_A = R\cdot I + K_E \cdot \omega $$
+
+La coppia motrice del motore $C$ è data dalla relazione:
+
+$$ C = K_T \cdot I $$
+
+dove $K_T$ è la costante meccanica del motore ed ha lo stesso valore, ma unità di misura diversa.
+
+### Funzionamento a vuoto
+
+Supponiamo che il motore sia inizialmente fermo, dunque la sua velocità angolare $\omega$ vale 0 e non sia applicato alcun carico al rotore. Se viene applicata una tensione $V_A$ ai capi dell'armatura, si ottiene una corrente $I_S$, detta corrente di spunto che vale:
+
+$$ I_S = \frac{V_A}{R} $$
+
+Si avrà una coppia $C_S$ detta coppia di spunto che vale:
+
+$$ C_S = K_T \cdot I_S = K_T \cdot  \frac{V_A}{R} $$
+
+A causa di questa coppia, il motore inizia a ruotare con velocità angolare $\omega$ e quindi viene generata una forza controelettromotrice che si oppone alla tensione di alimentazione:
+
+$$ E_C = K_E \cdot \omega $$
+
+Dopo un certo periodo di tempo $T_A$, il motore raggiungerà la velocità angolare di regime $\omega_0$ detta velocità a vuoto. In assenza di carico, ovvero di coppia resistente, si avrà che la forza controelettromotrice avrà raggiunto il valore della tensione di alimentazione, azzerando la corrente $I$.
+
+
+$$E_C = V_A \rightarrow V_A = K_E \cdot \omega_0 \rightarrow \omega_0 = \frac{V_A}{K_E} $$

@@ -12,7 +12,7 @@ nav:
     - 'sistemi-4/programmazione-plc.md'
   - Sistemi 5° anno:
     - 'sistemi-5/index.md'
-    - 'sistemi-5/controllo-motore-dc.md'
+    - 'sistemi-5/controllo-motore-cc.md'
 
 plugins:
     - mkdocs-video
@@ -21,3 +21,10 @@ plugins:
 markdown_extensions:
   - md_in_html
   - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
