@@ -54,15 +54,31 @@ Supponiamo che il motore sia inizialmente fermo, dunque la sua velocità angolar
 
 $$ I_S = \frac{V_A}{R} $$
 
-Si avrà una coppia $C_S$ detta coppia di spunto che vale:
+e si ha una coppia $C_S$ detta coppia di spunto che vale:
 
 $$ C_S = K_T \cdot I_S = K_T \cdot  \frac{V_A}{R} $$
 
-A causa di questa coppia, il motore inizia a ruotare con velocità angolare $\omega$ e quindi viene generata una forza controelettromotrice che si oppone alla tensione di alimentazione:
+A causa di questa coppia, il motore inizia a ruotare con velocità angolare $\omega (t)$ variabile nel tempo e quindi viene generata una forza controelettromotrice che si oppone alla tensione di alimentazione:
 
-$$ E_C = K_E \cdot \omega $$
+$$ E_C (t) = K_E \cdot \omega(t) $$
 
-Dopo un certo periodo di tempo $T_A$, il motore raggiungerà la velocità angolare di regime $\omega_0$ detta velocità a vuoto. In assenza di carico, ovvero di coppia resistente, si avrà che la forza controelettromotrice avrà raggiunto il valore della tensione di alimentazione, azzerando la corrente $I$.
+Dopo un certo periodo di tempo $T_A$, il motore raggiungerà la velocità angolare di regime $\omega_0$ detta anche velocità a vuoto. In assenza di carico, ovvero di coppia resistente, si avrà che la forza controelettromotrice avrà raggiunto il valore della tensione di alimentazione, azzerando la corrente $I$.
+
+$$E_C = V_A \rightarrow V_A = K_E \cdot \omega_R \rightarrow \omega_0 = \frac{V_A}{K_E} $$
+
+Essendo la corrente di regime $I_R$ = 0, si ha che la coppia motrice va a zero:
+
+$$ C_0 = K_T \cdot I_0 = 0 $$
+
+Nella realtà, questa situazione non può verificarsi, in quanto sono sempre presenti attriti e perdite magnetiche. Per tale motivo, vi è una corrente $I_0 \neq 0$ dato che la coppia motrice deve compensare la coppia resistente.
+
+<figure markdown="span">
+  ![Image title](images/motore_cc.gif){ width="300" }
+  <figcaption markdown="span">
+    Motore in CC [Abnormaal](https://commons.wikimedia.org/wiki/User:Abnormaal)
+    [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+  </figcaption>
+</figure>
 
 
-$$E_C = V_A \rightarrow V_A = K_E \cdot \omega_0 \rightarrow \omega_0 = \frac{V_A}{K_E} $$
+### Funzionamento come dinamo
