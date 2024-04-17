@@ -9,8 +9,15 @@ nav:
     - 'sistemi-3/index.md'
   - Sistemi 4° anno:
     - 'sistemi-4/index.md'
+    - 'sistemi-4/programmazione-plc.md'
   - Sistemi 5° anno:
     - 'sistemi-5/index.md'
+    - 'sistemi-5/controllo-motore-dc.md'
 
 plugins:
     - mkdocs-video
+    - glightbox
+
+markdown_extensions:
+  - md_in_html
+  - attr_list
