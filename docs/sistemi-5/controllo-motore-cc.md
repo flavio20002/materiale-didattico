@@ -44,7 +44,7 @@ $$ V_A = R\cdot I + K_E \cdot \omega $$
 
 La coppia motrice del motore $C$ è data dalla relazione:
 
-$$ C = K_T \cdot I $$
+$$ C_M = K_T \cdot I $$
 
 dove $K_T$ è la costante meccanica del motore ed ha lo stesso valore, ma unità di misura diversa.
 
@@ -89,11 +89,11 @@ Nella realtà, questa situazione non può verificarsi, in quanto sono sempre pre
 
 ### Funzionamento sotto carico
 
-Se all'albero del motore viene applicata una coppia contraria al verso di rotazione $C_L$ detta coppia resistente o frenante, la velocità angolare $omega$ diminuisce e viene a circolare una corrente:
+Se all'albero del motore viene applicata una coppia contraria al verso di rotazione $C_L$ detta coppia resistente o frenante, la velocità angolare $\omega$ diminuisce e viene a circolare una corrente:
 
 $$ I= \frac{V_A - K_E \cdot \omega}{R} $$
 
-Tale corrente, produce una coppia motrice che a regime sarà uguale alla coppia resistente $C = C_L$. Dato che:
+Tale corrente, produce una coppia motrice che a regime sarà uguale alla coppia resistente $C_M = C_L$. Dato che:
 
 $$ I = \frac{C_L}{K_T}  $$
 

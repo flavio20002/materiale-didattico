@@ -103,4 +103,36 @@ Di seguito viene descritto il principio di funzionamento.
 
 ## Linguaggio ST
 
-### Macchina a Stati
+## Macchina a Stati
+
+### Semaforo
+
+![type:video](https://www.youtube.com/embed/JZzBVN1RTCc)
+
+[Scarica il progetto](files/Progetto5-Macchina a Stati ST.tnzip)
+
+
+### Carrello
+
+Realizzare un progetto TwinCAT usando la struttura della macchina a stati in linguaggio ST che controlli il movimento in due versi (sinistra e destra) di un carrello con le seguenti caratteristiche:
+
+- La HMI deve avere questo aspetto:
+
+<figure markdown="span">
+  ![Image title](images/carrello.gif){ width="300" }
+  <figcaption markdown="span">
+    HMI del progetto Carrello
+  </figcaption>
+</figure>
+
+ - Il Function Block chiamato FB_StateMachine ha queste caratteristiche:
+
+    * Gli stati sono 4: stop con prossimo movimento a destra (stato iniziale), movimento a destra, movimento a sinistra, stop con prossimo movimento a sinistra.
+    * Gli input sono 4: pulsante start, pulsante stop, FC sinistra e FC destra. La gestione dei sensori finecorsa è gestita dalla posizione del carrello sullo schermo.
+    * Gli output sono 2: Motore destra e Motore sinistra.
+
+  - Il Function Block chiamato FB_VisuManager ha queste caratteristiche:
+
+    * Gestisce la posizione del carrello (coordinata x)
+    * Gli input sono 2: Motore destra e Motore sinistra che userà per incrementare o decrementare la coordinata.
+    * Gli output sono 2: FC destra e FC sinistra a seconda se il carrello ha raggiunto il punto iniziale o quello finale.
