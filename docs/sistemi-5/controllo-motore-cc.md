@@ -62,7 +62,14 @@ A causa di questa coppia, il motore inizia a ruotare con velocità angolare $\om
 
 $$ E_C (t) = K_E \cdot \omega(t) $$
 
-Dopo un certo periodo di tempo $T_A$, il motore raggiungerà la velocità angolare di regime $\omega_0$ detta anche velocità a vuoto. In assenza di carico, ovvero di coppia resistente, si avrà che la forza controelettromotrice avrà raggiunto il valore della tensione di alimentazione, azzerando la corrente $I$.
+Dopo un certo periodo di tempo $T_A$, il motore raggiungerà la velocità angolare di regime $\omega_0$ detta anche velocità a vuoto. 
+
+\begin{equation}
+  \omega_0 = \frac{V_A}{K_E}
+  \label{eq:omega0}
+\end{equation}
+
+In assenza di carico, ovvero di coppia resistente, si avrà che la forza controelettromotrice avrà raggiunto il valore della tensione di alimentazione, azzerando la corrente $I$.
 
 $$E_C = V_A \rightarrow V_A = K_E \cdot \omega_R \rightarrow \omega_0 = \frac{V_A}{K_E} $$
 
@@ -80,5 +87,50 @@ Nella realtà, questa situazione non può verificarsi, in quanto sono sempre pre
   </figcaption>
 </figure>
 
+### Funzionamento sotto carico
 
-### Funzionamento come dinamo
+Se all'albero del motore viene applicata una coppia contraria al verso di rotazione $C_L$ detta coppia resistente o frenante, la velocità angolare $omega$ diminuisce e viene a circolare una corrente:
+
+$$ I= \frac{V_A - K_E \cdot \omega}{R} $$
+
+Tale corrente, produce una coppia motrice che a regime sarà uguale alla coppia resistente $C = C_L$. Dato che:
+
+$$ I = \frac{C_L}{K_T}  $$
+
+Dall'equazione alla maglia, abbiamo:
+
+$$ E_C = V_A -  R\cdot I  = V_A -  R\cdot \frac{C_L}{K_T} $$
+
+Se la posto di $E_C$  sostituiamo $K_E \cdot \omega$, otteniamo:
+
+$$ \omega  = \frac{V_A}{K_E} - R\cdot \frac{C_L}{K_T^2} $$
+
+Sostituendo $\omega_0$ dall'equazione $\eqref{eq:omega0}$ e ponendo:
+
+$$ H = \frac{R}{K_T^2} $$
+
+otteniamo:
+
+$$ \omega  = \omega_0 - C_L \cdot H $$
+
+$H$ è detta costante motore ed è un indice di qualità del motore. Più piccolo è $H$, minore sarà la perdita di velocità angolare a parità di coppia resistente.
+
+### Regime dinamico
+
+I motore in corrente continua è un sistema dinamico caratterizzato da due costanti di tempo:
+
+- la costante di tempo elettrica $\tau_e$
+
+$$ \tau_e = \frac{L}{R} $$
+
+- la costante di tempo meccanica $\tau_m$
+
+$$ \tau _m = \frac{R \cdot J } {K_T \cdot K_E} $$
+
+dove $J$ è il momento di inerzia complessivo del motore collegato al carico.
+
+La funzione di trasferimento del motore in corrente continua, nel funzionamento a vuoto, può essere quindi espressa come:
+
+$$ G(s) = \frac{\Omega (s)}{V_A (s)} = \frac{\frac{1}{K_E}}{(1 + s\cdot \tau_m) \cdot (1 + s\cdot \tau_m) }$$
+
+e generalmente si ha che $\tau_m \gg \tau_e$.
