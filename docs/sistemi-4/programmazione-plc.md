@@ -4,6 +4,16 @@ In questa sezione sono descritti i principi per la programmazione dei PLC
 
 ## Caratteristiche di un PLC
 
+## Ambiente di sviluppo TwinCAT
+
+### Installazione
+
+[Scarica TC31-FULL-Setup.3.1.4024.44.exe](https://drive.google.com/file/d/1ebump_CRpeMDpodTEIvXfvRQp7_5mQY3/view?usp=sharing){:target="_blank"}
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/GzbMc2GxRYY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Linguaggio Ladder
 
 ## Blocchi funzione
@@ -105,14 +115,15 @@ Di seguito viene descritto il principio di funzionamento.
 
 ## Macchina a Stati
 
-### Semaforo
+### Laboratorio: Semaforo
 
-![type:video](https://www.youtube.com/embed/JZzBVN1RTCc)
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/JZzBVN1RTCc" frameborder="0" allowfullscreen></iframe>
+</div>
 
 [Scarica il progetto](files/Progetto5-Macchina a Stati ST.tnzip)
 
-
-### Carrello
+### Laboratorio: Carrello
 
 Realizzare un progetto TwinCAT usando la struttura della macchina a stati in linguaggio ST che controlli il movimento in due versi (sinistra e destra) di un carrello con le seguenti caratteristiche:
 
@@ -136,3 +147,5 @@ Realizzare un progetto TwinCAT usando la struttura della macchina a stati in lin
     * Gestisce la posizione del carrello (coordinata x)
     * Gli input sono 2: Motore destra e Motore sinistra che userà per incrementare o decrementare la coordinata.
     * Gli output sono 2: FC destra e FC sinistra a seconda se il carrello ha raggiunto il punto iniziale o quello finale.
+
+## Esecuzione su target remoto
