@@ -4,21 +4,19 @@ In questa sezione sono descritti i principi per la programmazione dei PLC
 
 ## Caratteristiche di un PLC
 
-## Ambiente di sviluppo TwinCAT
+Il PLC (Programmable Logic Controller) è un dispositivo utilizzato nell'ambito dell'automazione industriale. Presenta molte caratteristiche in comune con i Personal Computer, ma al contrario di questi è progettato per un funzionamento continuo (H24) ed in condizioni di temperatura, umidità o polvere più proibitive.
+Il PLC ha progressivamente sostituito la logica cablata nell'ambito dell'automazione industriale per i seguenti motivi:
 
-### Installazione
-
-[Scarica TC31-FULL-Setup.3.1.4024.44.exe](https://drive.google.com/file/d/1ebump_CRpeMDpodTEIvXfvRQp7_5mQY3/view?usp=sharing){:target="_blank"}
-
-<div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/GzbMc2GxRYY" frameborder="0" allowfullscreen></iframe>
-</div>
+- Possibilità di riprogrammare il sistema automatico senza modifiche hardware.
+- Minor presenza di parti in movimento (relè elettromeccanici).
+- Minore consumo di elettricità.
+- Minore costo di realizzazione.
 
 ## Linguaggio Ladder
 
 ## Blocchi funzione
 
-Un Blocco Funzione FB (Function Block) è una POU (Program Organization Unit) che, a fronte di uno più ingressi, restituisce uno o più uscite. Non può essere richiamato direttamente, ma dev'essere dichiarato sottoforma di istanza. Ogni istanza ha uno stato di memoria (tramite l'utilizzo di variabili interne) che persiste tra una chiamata e l'altra dell'istanza del blocco funzione.
+Un Blocco Funzione FB (Function Block) è una POU (Program Organization Unit) che, a fronte di uno più ingressi, restituisce uno o più uscite. Non può essere richiamato direttamente, ma dev'essere dichiarato sotto forma di istanza. Ogni istanza ha uno stato di memoria (tramite l'utilizzo di variabili interne) che persiste tra una chiamata e l'altra dell'istanza del blocco funzione.
 
 ### Timer on-delay (TON)
 
@@ -33,9 +31,9 @@ Il Function Block TON (Timer ON Delay) è utilizzato per creare un ritardo tempo
 
 Di seguito viene descritto il principio di funzionamento.
 
-- L'ingresso di abilitazione (IN) determina se il blocco è abilitato o disabilitato. Finchè l'ingresso rimane a livello logico **FALSE**, il blocco è disabilitato e l'uscita Q è a livello logico **FALSE**. Quando invece viene portato a **TRUE**, il blocco inizia a contare il tempo trascorso. Il tempo trascorso è disponibile nell'uscita Elapsed TIme (ET).
+- L'ingresso di abilitazione (IN) determina se il blocco è abilitato o disabilitato. Finché l'ingresso rimane a livello logico **FALSE**, il blocco è disabilitato e l'uscita Q è a livello logico **FALSE**. Quando invece viene portato a **TRUE**, il blocco inizia a contare il tempo trascorso. Il tempo trascorso è disponibile nell'uscita Elapsed TIme (ET).
 
-- L'ingresso Preset Time (PT) definisce la durata del ritardo temporizzato. Quando il tempo trascorso supera il tempo impostato nell'ingresso PT, l'uscita Q viene posta a livello logico **TRUE** e vi permane finchè il segnale IN rimane a livello logico **TRUE**.
+- L'ingresso Preset Time (PT) definisce la durata del ritardo temporizzato. Quando il tempo trascorso supera il tempo impostato nell'ingresso PT, l'uscita Q viene posta a livello logico **TRUE** e vi permane finché il segnale IN rimane a livello logico **TRUE**.
 
 - Se l'ingresso IN viene posto a **FALSE** prima che il tempo PT sia trascorso, l'uscita Q non assumerà il valore logico **TRUE**.
 
@@ -52,9 +50,9 @@ Il Function Block TON (Timer ON Delay) è utilizzato per creare un ritardo tempo
   </figcaption>
 </figure>
 
-- L'ingresso di abilitazione (IN) determina se il blocco è abilitato o disabilitato. Finchè l'ingresso rimane a livello logico **TRUE**, il blocco è disabilitato e l'uscita Q è a livello logico **TRUE**. Quando invece viene portato a **FALSE**, il blocco inizia a contare il tempo trascorso. Il tempo trascorso è disponibile nell'uscita Elapsed TIme (ET).
+- L'ingresso di abilitazione (IN) determina se il blocco è abilitato o disabilitato. Finché l'ingresso rimane a livello logico **TRUE**, il blocco è disabilitato e l'uscita Q è a livello logico **TRUE**. Quando invece viene portato a **FALSE**, il blocco inizia a contare il tempo trascorso. Il tempo trascorso è disponibile nell'uscita Elapsed TIme (ET).
 
-- L'ingresso Preset Time (PT) definisce la durata del ritardo temporizzato. Quando il tempo trascorso supera il tempo impostato nell'ingresso PT, l'uscita Q viene posta a livello logico **FALSE** e vi permane finchè il segnale IN rimane a livello logico **FALSE**.
+- L'ingresso Preset Time (PT) definisce la durata del ritardo temporizzato. Quando il tempo trascorso supera il tempo impostato nell'ingresso PT, l'uscita Q viene posta a livello logico **FALSE** e vi permane finché il segnale IN rimane a livello logico **FALSE**.
 
 - Se l'ingresso IN viene posto a **TRUE** prima che il tempo PT sia trascorso, l'uscita Q non assumerà il valore logico **FALSE**.
 
@@ -73,11 +71,11 @@ Il Function Block TP (Pulse timer) è utilizzato per generare un impulso di dura
 
 Di seguito viene descritto il principio di funzionamento.
 
-- L'ingresso di abilitazione (IN) determina se il blocco è abilitato o disabilitato. Finchè l'ingresso rimane a livello logico **FALSE**, il blocco è disabilitato e l'uscita Q è a livello logico **FALSE**. Quando invece viene portato a **TRUE**, l'uscita Q viene portata a livello logico **TRUE**.
+- L'ingresso di abilitazione (IN) determina se il blocco è abilitato o disabilitato. Finché l'ingresso rimane a livello logico **FALSE**, il blocco è disabilitato e l'uscita Q è a livello logico **FALSE**. Quando invece viene portato a **TRUE**, l'uscita Q viene portata a livello logico **TRUE**.
 
 - L'ingresso Preset Time (PT) definisce la durata dell'impulso temporizzato. Quando il tempo trascorso supera il tempo impostato nell'ingresso PT, l'uscita Q viene posta a livello logico **FALSE**.
 
-- Se l'ingresso IN viene posto a **FALSE** prima che il tempo PT sia trascorso, l'uscita Q rimane comunque a livello logico **TRUE** finchè non è trascorso il tempo impostato in PT.
+- Se l'ingresso IN viene posto a **FALSE** prima che il tempo PT sia trascorso, l'uscita Q rimane comunque a livello logico **TRUE** finché non è trascorso il tempo impostato in PT.
 
 - Per generare un altro impulso, l'ingresso IN deve essere portato a livello logico **FALSE** e successivamente a livello logico **TRUE**.
 
@@ -115,7 +113,36 @@ Di seguito viene descritto il principio di funzionamento.
 
 ## Macchina a Stati
 
-### Laboratorio: Semaforo
+## Ambiente di sviluppo TwinCAT
+
+### Installazione
+
+[Scarica TC31-FULL-Setup.3.1.4024.44.exe](https://drive.google.com/file/d/1ebump_CRpeMDpodTEIvXfvRQp7_5mQY3/view?usp=sharing){:target="_blank"}
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/GzbMc2GxRYY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+### Il primo progetto
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/GVevocz6wfI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+### HMI
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/1uTgwMqExw8" frameborder="0" allowfullscreen></iframe>
+</div>
+
+### Temporizzazioni
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/PPws5IBSID4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+### Macchina a stati: semaforo
 
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/JZzBVN1RTCc" frameborder="0" allowfullscreen></iframe>
@@ -123,7 +150,7 @@ Di seguito viene descritto il principio di funzionamento.
 
 [Scarica il progetto](files/Progetto5-Macchina a Stati ST.tnzip)
 
-### Laboratorio: Carrello
+### Macchina a stati: Carrello
 
 Realizzare un progetto TwinCAT usando la struttura della macchina a stati in linguaggio ST che controlli il movimento in due versi (sinistra e destra) di un carrello con le seguenti caratteristiche:
 
@@ -148,4 +175,5 @@ Realizzare un progetto TwinCAT usando la struttura della macchina a stati in lin
     * Gli input sono 2: Motore destra e Motore sinistra che userà per incrementare o decrementare la coordinata.
     * Gli output sono 2: FC destra e FC sinistra a seconda se il carrello ha raggiunto il punto iniziale o quello finale.
 
-## Esecuzione su target remoto
+
+### Esecuzione su target remoto
