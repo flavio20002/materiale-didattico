@@ -111,7 +111,7 @@ Di seguito viene descritto il principio di funzionamento.
 
 ### Down Counter (CTD)
 
-Il Function Block CTD (Down Counter) contare all'indietro.
+Il Function Block CTD (Down Counter) permette di contare all'indietro.
 
 <figure markdown="span">
   ![Image title](images/CTD.svg){ width="300" }
@@ -126,7 +126,7 @@ Di seguito viene descritto il principio di funzionamento.
 
 ### Up Counter (CUD)
 
-Il Function Block CUD (Down Counter) contare in avanti.
+Il Function Block CUD (Down Counter) permette di contare in avanti.
 
 <figure markdown="span">
   ![Image title](images/CUD.svg){ width="300" }
@@ -138,6 +138,36 @@ Il Function Block CUD (Down Counter) contare in avanti.
 Di seguito viene descritto il principio di funzionamento.
 
 - Quando l'ingresso RESET ha valore logico **TRUE**, la variabile di conteggio CV viene portata a valore 0. Se la variabile di ingresso CU ha un fronte di salita da **FALSE** a **TRUE**, CV viene incrementato di 1, finché CV è minore di PV. Il valore di Q vale **TRUE** quando CV è maggiore o uguale a PV.
+
+### Bistabile reset dominante (RS)
+
+Il Function Block RS è un bistabile con ingresso di reset dominante.
+
+<figure markdown="span">
+  ![Image title](images/RS.svg){ width="300" }
+  <figcaption markdown="span">
+    Blocco funzione RS
+  </figcaption>
+</figure>
+
+Di seguito viene descritto il principio di funzionamento.
+
+- Quando vi è un fronte di salita sull'ingresso SET, l'uscita Q va a livello logico *TRUE* e vi permane finché l'ingresso RESET1 non va a livello logico *TRUE*. Il reset ha la precedenza sul set.
+
+### Bistabile set dominante (SR)
+
+Il Function Block SR è un bistabile con ingresso di set dominante.
+
+<figure markdown="span">
+  ![Image title](images/SR.svg){ width="300" }
+  <figcaption markdown="span">
+    Blocco funzione SR
+  </figcaption>
+</figure>
+
+Di seguito viene descritto il principio di funzionamento.
+
+- Quando vi è un fronte di salita sull'ingresso SET1, l'uscita Q va a livello logico *TRUE* e vi permane finché l'ingresso RESET non va a livello logico *TRUE*. Il set ha la precedenza sul reset.
 
 ## Funzioni
 
