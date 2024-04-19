@@ -1,0 +1,2 @@
+[pygments.lexers]
+stlexer = stlexer.lexer:IecstLexer

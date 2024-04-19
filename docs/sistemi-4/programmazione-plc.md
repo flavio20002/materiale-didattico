@@ -111,6 +111,28 @@ Di seguito viene descritto il principio di funzionamento.
 
 ## Linguaggio ST
 
+### IF
+
+IF è usato per testare una condizione, ed eseguire le istruzioni successive solo al verificarsi della condizione. La condizione è rappresentata da un'espressione che ritorna un valore booleano, TRUE o FALSE. Se la condizione è verificata, le istruzioni successive sono eseguite. Altrimenti, viene testata la condizione successiva nel ramo chiamato ELSIF. Infine, se nessuna condizione è verificata, viene eseguito il codice contenuto nel ramo ELSE. I rami ELSIF ed ELSE sono opzionali.
+
+
+``` iecst
+VAR
+    nTemp       : INT;
+    bHeatingOn  : BOOL;
+    bOpenWindow : BOOL;
+END_VAR
+
+IF nTemp < 17 THEN
+    bHeatingOn  := TRUE;
+ELSIF nTemp > 25 THEN
+    bOpenWindow := TRUE;
+ELSE
+    bHeatingOn  := FALSE;
+    bOpenWindow := FALSE;
+END_IF;
+```
+
 ## Macchina a Stati
 
 ## Ambiente di sviluppo TwinCAT
