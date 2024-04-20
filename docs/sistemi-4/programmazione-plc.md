@@ -20,7 +20,7 @@ Un Blocco Funzione FB (Function Block) è una POU (Program Organization Unit) ch
 
 ### Timer on-delay (TON)
 
-Il Function Block TON (Timer ON Delay) è utilizzato per creare un ritardo temporizzato.
+Il Function Block TON (Timer on-delay) è utilizzato per creare un ritardo temporizzato.
 
 <figure markdown="span">
   ![Image title](images/TON.svg){ width="300" }
@@ -41,7 +41,7 @@ Di seguito viene descritto il principio di funzionamento.
 
 ### Timer off-delay (TOF)
 
-Il Function Block TON (Timer ON Delay) è utilizzato per creare un ritardo temporizzato ed il suo funzionamento è duale rispetto al blocco TON.
+Il Function Block TOF (Timer off-delay) è utilizzato per creare un ritardo temporizzato ed il suo funzionamento è duale rispetto al blocco TON.
 
 <figure markdown="span">
   ![Image title](images/TOF.svg){ width="300" }
@@ -94,7 +94,7 @@ Di seguito viene descritto il principio di funzionamento.
 
 - Quando il segnale di ingresso CLK passa da livello logico **FALSE** a livello logico **TRUE**, l'uscita Q viene portata a livello logico **TRUE** solamente per un ciclo del PLC.
 
-### Rising Edge Trigger (F_TRIG)
+### Falling Edge Trigger (F_TRIG)
 
 Il Function Block F_TRIG (Falling Edge Trigger) è utilizzato per rilevare un fronte di discesa (passaggio da livello logico **TRUE** a livello logico **FALSE**) sull'ingresso CLK.
 
