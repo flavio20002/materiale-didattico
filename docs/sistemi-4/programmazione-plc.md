@@ -215,6 +215,32 @@ ELSE
 END_IF;
 ```
 
+### CASE
+
+CASE è usato per verificare più condizioni sulla stessa variabile. Le condizioni vengono verificate in sequenza e l'istruzione termina quando viene raggiunta la prima condizione verificata. Se nessuna condizione viene verificata, vengono eseguite le istruzioni contenute nel ramo ELSE.
+
+
+``` iecst
+VAR
+    int1       : INT;
+    bool1      : BOOL;
+    bool2      : BOOL;
+    bool3      : BOOL;
+END_VAR
+
+CASE int1 OF
+1, 5:  
+    bool1 := TRUE;
+    bool2 := FALSE;
+2:     
+    bool2 := FALSE;
+    bool3 := TRUE;
+ELSE
+    bool1 := NOT BOOL1;
+    bool2 := BOOL1 OR BOOL2;
+END_CASE;
+```
+
 ## Macchina a Stati
 
 ## Ambiente di sviluppo TwinCAT
