@@ -89,5 +89,13 @@ Di seguito, sono riportatati i dispositivi di output:
 | L4          | Lampada di segnalazione gialla (anomalia)               |
 | L5          | Lampada di segnalazione rossa (condizione di emergenza)               |
 
+Nella prima parte del programma, vengono gestiti i pulsanti e le luci di segnalazione. La variabile Stop indica che è stato richiesto uno stop, che può avvenire perché il pulsante di stop è stato premuto, oppure perché uno dei contenitori è pieno. Il pulsante di stop ha effetto solo una volta terminato lo smistamento del prosciutto corrente in modo da lasciare la macchina in uno stato gestito.
+
+<figure markdown="span">
+  ![Image title](images/esame2018_ladder.svg){ width="500" }
+  <figcaption markdown="span">
+    Programma Ladder: gestione dei pulsanti e segnalazioni.
+  </figcaption>
+</figure>
 
 ### Seconda parte
