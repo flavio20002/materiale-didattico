@@ -5,7 +5,7 @@
 Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella
 seconda parte. 
 
-# Prima parte
+### Prima parte
 
 All’interno di un prosciuttificio è presente una stazione di smistamento dei prosciutti per
 procedere alle operazioni di marchiatura selezione per la vendita e timbratura.
@@ -30,14 +30,64 @@ Ogni linea di smistamento è provvista di un opportuno sensore che permette il c
 dei prosciutti commerciabili da quelli destinati ad altri usi.
 Il candidato, fatte le ulteriori ipotesi aggiuntive che ritiene necessarie:
 
-    1. descriva l’impianto attraverso uno schema e individui i dispositivi necessari alla sua
-    realizzazione, fornendo una tabella di I/O rappresentante i principali segnali elettrici di
-    controllo;
-    2. rappresenti mediante un diagramma di flusso di propria conoscenza, l’algoritmo di
-    gestione dell’impianto;
-    3. elabori il programma in grado di gestire l’automatismo utilizzando un sistema
-    programmabile di propria conoscenza;
-    4. progetti un sistema in grado di effettuare una stima percentuale dei prosciutti
-    commerciabili da quelli destinati ad altri usi.
-    Inoltre, il candidato progetti un idoneo sistema di segnalazioni luminose nelle fasi di
-    movimentazione dei nastri, nonché i pulsanti di marcia e arresto dell’impianto. 
+1. descriva l’impianto attraverso uno schema e individui i dispositivi necessari alla sua
+realizzazione, fornendo una tabella di I/O rappresentante i principali segnali elettrici di
+controllo;
+
+2. rappresenti mediante un diagramma di flusso di propria conoscenza, l’algoritmo di
+gestione dell’impianto;
+
+3. elabori il programma in grado di gestire l’automatismo utilizzando un sistema
+programmabile di propria conoscenza;
+
+4. progetti un sistema in grado di effettuare una stima percentuale dei prosciutti
+commerciabili da quelli destinati ad altri usi.
+Inoltre, il candidato progetti un idoneo sistema di segnalazioni luminose nelle fasi di
+movimentazione dei nastri, nonché i pulsanti di marcia e arresto dell’impianto.
+
+**Soluzione:**
+
+Di seguito viene riportato lo schema dell'impianto.
+
+<figure markdown="span">
+  ![Image title](images/esame2018_schema.svg){ width="500" }
+  <figcaption markdown="span">
+    Schema dell'impianto
+  </figcaption>
+</figure>
+
+Di seguito, sono riportatati i dispositivi di input:
+
+| Codice      | Descrizione                          |
+| ----------- | ------------------------------------ |
+| PB1      | Pulsante di avvio NA                 |
+| PB2      | Pulsante di stop (gestito) NC        |
+| PBE      | Pulsante di emergenza a fungo NC     |
+| PS1       | Fotocellula rilevamento prosciutto linea di arrivo|
+| PS2       | Fotocellula rilevamento prosciutto contenitore di raccolta da 5 a 10 Kg|
+| PS3       | Fotocellula rilevamento prosciutto scivolo di raccolta minore di 5 Kg|
+| PS4       | Fotocellula rilevamento prosciutto contenitore di raccolta maggiore di 10 Kg|
+| FS1       | Sensore di riempimento contenitore di raccolta da 5 a 10 Kg|
+| FS2       | Sensore di riempimento contenitore di raccolta maggiore di 10 Kg|
+| SB1       | Sensore di finecorsa che indica la rotazione di 0°|
+| SB2       | Sensore di finecorsa che indica la rotazione di 90° a destra|
+| SB3       | Sensore di finecorsa che indica la rotazione di 90° a sinistra|
+
+
+Di seguito, sono riportatati i dispositivi di output:
+
+| Codice      | Descrizione                          |
+| ----------- | ------------------------------------ |
+| M1          | Motore nastro trasportatore linea di arrivo                 |
+| M2          | Motore nastro trasportatore linea da 5 a 10 Kg                 |
+| M3          | Motore nastro trasportatore linea maggiore di 10 Kg                 |
+| M4          | Motore piattaforma girevole                 |
+| M5          | Motore micro rulli               |
+| L1          | Lampada di segnalazione bianca (macchina in tensione)               |
+| L2          | Lampada di segnalazione verde (macchina in funzione)               |
+| L3          | Lampada di segnalazione blu (azione richiesta)               |
+| L4          | Lampada di segnalazione gialla (anomalia)               |
+| L5          | Lampada di segnalazione rossa (condizione di emergenza)               |
+
+
+### Seconda parte

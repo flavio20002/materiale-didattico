@@ -26,8 +26,8 @@ __all__ = ['IecstLexer']
 
 class IecstLexer(Lexer):
     """
-    For `IEC 61131-3 Structured Text
-    <https://en.wikipedia.org/wiki/Structured_text>`_ source code.
+    For IEC 61131-3 Structured Text
+    <https://en.wikipedia.org/wiki/Structured_text>_ source code.
 
     .. versionadded:: TODO
     """
@@ -332,7 +332,7 @@ class IecstLexer(Lexer):
                         collect_labels = False
                 elif scanner.scan(r'[\(\)\[\]]+'):
                     token = Punctuation
-                    # abort function naming ``foo = Function(...)``
+                    # abort function naming foo = Function(...)
                     next_token_is_function = False
                     # if we are in a function block we count the open
                     # braces because ootherwise it's impossible to
