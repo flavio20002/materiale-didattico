@@ -10,9 +10,11 @@ nav:
   - Sistemi 4° anno:
     - 'sistemi-4/index.md'
     - 'sistemi-4/programmazione-plc.md'
+    - 'sistemi-4/twincat.md'
   - Sistemi 5° anno:
     - 'sistemi-5/index.md'
     - 'sistemi-5/controllo-motore-cc.md'
+    - 'sistemi-5/esami-stato.md'
 
 plugins:
     - glightbox
