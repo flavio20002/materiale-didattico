@@ -6,11 +6,11 @@ Nei circuiti elettrici in corrente continua, la tensione applicata dal generator
 
 Un segnale di tensione sinusoidale è un segnale periodico rappresentato dalla seguente espressione:
 
-$$ v(t) = A \cdot sin (\omega t + \varphi) $$
+$$ v(t) = A \cdot \sin (\omega t + \varphi) $$
 
 oppure
 
-$$ v(t) = A \cdot sin (2 \pi f t + \varphi) $$
+$$ v(t) = A \cdot \sin (2 \pi f t + \varphi) $$
 
 dove:
 

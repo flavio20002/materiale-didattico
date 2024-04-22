@@ -3,7 +3,7 @@
 ## Oscilloscopio Rigol DS2000A
 
 <figure markdown="span">
-  ![Image title](images/DS2102A.jpg){ width="300" }
+  ![Image title](images/MSO2000.jpg){ width="300" }
   <figcaption markdown="span">
     Oscilloscopio Rigol DS2000A
   </figcaption>
