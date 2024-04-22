@@ -18,6 +18,7 @@ nav:
   - Scienze e tecnologie applicate:
     - 'sta/index.md'
     - 'sta/corrente-alternata.md'
+    - 'sta/strumentazione.md'
 
 plugins:
     - glightbox

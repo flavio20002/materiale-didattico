@@ -26,15 +26,14 @@ dove:
   </figcaption>
 </figure>
 
-Nella trattazione dei segnali di tensione sinusoidale, si fa riferimento al valore efficace $V_(eff)$ che si calcola con la seguente formula:
+Nella trattazione dei segnali di tensione sinusoidale, si fa riferimento al valore efficace $V_{eff}$ che si calcola con la seguente formula:
 
 $$ V_{eff} = \frac{A}{\sqrt(2)} $$
 
-Il valore efficace è il valore che avrebbe un segnale di tensione continuo di pari potenza. É quindi utilizzato per calcolare facilmente la potenza dissipata da un utilizzatore di resistenza $R$ alimentato in corrente alternata.
+Il valore efficace è il valore che avrebbe un segnale di tensione continuo di pari potenza. É quindi utilizzato per calcolare facilmente la potenza dissipata da un utilizzatore di resistenza $R$ alimentato in corrente alternata. Si indica generalmente con $V$, dato che è il parametro più usato quando si parla di tensione alternata. Il valore efficace è a volte anche rappresentato con la sigla rms, dall'inglese root mean square.
+
 
 $$ P = \frac{V^2}{R} \quad [W] $$
-
-Il valore efficace è anche rappresentato con la sigla rms, dall'inglese root mean square.
 
 ## Generazione della tensione sinusoidale
 
@@ -59,4 +58,4 @@ Gli alternatori di corrente sono macchine elettriche rotanti che permettono di t
 
 ## Esercizi
 
-1. Un elettrodomestico possiede una resistenza elettrica di $20 \; \Omega$ e viene alimentato con una tensione alternata di valore massimo di $155{,}6 \; V$. Calcolare il costo dell'energia elettrica per un funzionamento di 20 minuti considerando un presso dell'energia di $0{,}2 \; {Euro}/KwH$
+1. Un elettrodomestico possiede una resistenza elettrica di $20 \; \Omega$ e viene alimentato con una tensione alternata di valore massimo di $155{,}6 \; V$. Calcolare il costo dell'energia elettrica per un funzionamento di 20 minuti considerando un presso dell'energia di $0{,}2 \; \text{€/kWh}$
