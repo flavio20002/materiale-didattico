@@ -15,6 +15,9 @@ nav:
     - 'sistemi-5/index.md'
     - 'sistemi-5/controllo-motore-cc.md'
     - 'sistemi-5/esami-stato.md'
+  - Scienze e tecnologie applicate:
+    - 'sta/index.md'
+    - 'sta/corrente-alternata.md'
 
 plugins:
     - glightbox
