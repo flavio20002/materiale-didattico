@@ -26,11 +26,15 @@ dove:
   </figcaption>
 </figure>
 
+[Scarica il file excel con la simulazione](files/sinusoide.xlsx){:target="_blank"}
+
+## Valore efficace
+
 Nella trattazione dei segnali di tensione sinusoidale, si fa riferimento al valore efficace $V_{eff}$ che si calcola con la seguente formula:
 
 $$ V_{eff} = \frac{A}{\sqrt(2)} $$
 
-Il valore efficace è il valore che avrebbe un segnale di tensione continuo di pari potenza. É quindi utilizzato per calcolare facilmente la potenza dissipata da un utilizzatore di resistenza $R$ alimentato in corrente alternata. Si indica generalmente con $V$, dato che è il parametro più usato quando si parla di tensione alternata. Il valore efficace è a volte anche rappresentato con la sigla rms, dall'inglese root mean square.
+Il valore efficace di un segnale alternato è equivalente al valore della corrente continua costante, in grado di produrre la stessa dissipazione di potenza in un carico resistivo. É quindi utilizzato per calcolare facilmente la potenza dissipata da un utilizzatore di resistenza $R$ alimentato in corrente alternata. Si indica generalmente con $V$, dato che è il parametro più usato quando si parla di tensione alternata. Il valore efficace è a volte anche rappresentato con la sigla rms, dall'inglese root mean square.
 
 
 $$ P = \frac{V^2}{R} \quad [W] $$
