@@ -58,36 +58,40 @@ Di seguito viene riportato lo schema dell'impianto.
 
 Di seguito, sono riportatati i dispositivi di input:
 
-| Codice      | Descrizione                          |
-| ----------- | ------------------------------------ |
-| PB1      | Pulsante di avvio NA                 |
-| PB2      | Pulsante di stop (gestito) NC        |
-| PBE      | Pulsante di emergenza a fungo NC     |
-| PS1       | Fotocellula rilevamento prosciutto linea di arrivo|
-| PS2       | Fotocellula rilevamento prosciutto contenitore di raccolta da 5 a 10 Kg|
-| PS3       | Fotocellula rilevamento prosciutto scivolo di raccolta minore di 5 Kg|
-| PS4       | Fotocellula rilevamento prosciutto contenitore di raccolta maggiore di 10 Kg|
-| FS1       | Sensore di riempimento contenitore di raccolta da 5 a 10 Kg|
-| FS2       | Sensore di riempimento contenitore di raccolta maggiore di 10 Kg|
-| SB1       | Sensore di finecorsa che indica la rotazione di 0°|
-| SB2       | Sensore di finecorsa che indica la rotazione di 90° a destra|
-| SB3       | Sensore di finecorsa che indica la rotazione di 90° a sinistra|
+| Codice      | Descrizione                          | Tipo segnale |
+| ----------- | ------------------------------------ | ----------- |
+| PB1      | Pulsante di avvio NA                 | Digitale 24V|
+| PB2      | Pulsante di stop (gestito) NC        |Digitale 24V|
+| PBE      | Pulsante di emergenza a fungo NC     |Digitale 24V|
+| PS1       | Fotocellula rilevamento prosciutto linea di arrivo|Digitale 24V|
+| PS2       | Fotocellula rilevamento prosciutto contenitore di raccolta da 5 a 10 Kg|Digitale 24V|
+| PS3       | Fotocellula rilevamento prosciutto scivolo di raccolta minore di 5 Kg|Digitale 24V|
+| PS4       | Fotocellula rilevamento prosciutto contenitore di raccolta maggiore di 10 Kg|Digitale 24V|
+| FS1       | Sensore di riempimento contenitore di raccolta da 5 a 10 Kg|Digitale 24V|
+| FS2       | Sensore di riempimento contenitore di raccolta maggiore di 10 Kg|Digitale 24V|
+| SB1       | Sensore di finecorsa che indica la rotazione di 0°|Digitale 24V|
+| SB2       | Sensore di finecorsa che indica la rotazione di 90° a destra|Digitale 24V|
+| SB3       | Sensore di finecorsa che indica la rotazione di 90° a sinistra|Digitale 24V|
+| LC1       | Cella di carico che misura il peso del prosciutto.|Analogico 10V|
 
 
 Di seguito, sono riportatati i dispositivi di output:
 
-| Codice      | Descrizione                          |
-| ----------- | ------------------------------------ |
-| M1          | Motore nastro trasportatore linea di arrivo                 |
-| M2          | Motore nastro trasportatore linea da 5 a 10 Kg                 |
-| M3          | Motore nastro trasportatore linea maggiore di 10 Kg                 |
-| M4          | Motore piattaforma girevole                 |
-| M5          | Motore micro rulli               |
-| L1          | Lampada di segnalazione bianca (macchina in tensione)               |
-| L2          | Lampada di segnalazione verde (macchina in funzione)               |
-| L3          | Lampada di segnalazione blu (azione richiesta)               |
-| L4          | Lampada di segnalazione gialla (anomalia)               |
-| L5          | Lampada di segnalazione rossa (condizione di emergenza)               |
+| Codice      | Descrizione                          | Tipo segnale |
+| ----------- | ------------------------------------ | ----------- |
+| M1          | Motore nastro trasportatore linea di arrivo                 | Digitale 24V|
+| M2          | Motore nastro trasportatore linea da 5 a 10 Kg                 | Digitale 24V|
+| M3          | Motore nastro trasportatore linea maggiore di 10 Kg                 | Digitale 24V|
+| M4          | Motore piattaforma girevole                 | Digitale 24V|
+| M5          | Motore micro rulli               | Digitale 24V|
+| L1          | Lampada di segnalazione bianca (macchina in tensione)               | Digitale 24V|
+| L2          | Lampada di segnalazione verde (macchina in funzione)               | Digitale 24V|
+| L3          | Lampada di segnalazione blu (azione richiesta)               | Digitale 24V|
+| L4          | Lampada di segnalazione gialla (anomalia)               | Digitale 24V|
+| L5          | Lampada di segnalazione rossa (condizione di emergenza)               | Digitale 24V|
+
+
+La cella di carico viene condizionata usando un amplificatore per strumentazione (INA111) in modo da ottenere una tensione di 10V in corrispondenza del fondoscala della cella di carico (15 Kg). In tal modo, ad ogni V corrisponderanno 1,5 Kg.
 
 Nella prima parte del programma, vengono gestiti i pulsanti e le luci di segnalazione. La variabile Stop indica che è stato richiesto uno stop, che può avvenire perché il pulsante di stop è stato premuto, oppure perché uno dei contenitori è pieno. Il pulsante di stop ha effetto solo una volta terminato lo smistamento del prosciutto corrente in modo da lasciare la macchina in uno stato gestito.
 
@@ -95,6 +99,15 @@ Nella prima parte del programma, vengono gestiti i pulsanti e le luci di segnala
   ![Image title](images/esame2018_ladder.svg){ width="500" }
   <figcaption markdown="span">
     Programma Ladder: gestione dei pulsanti e segnalazioni.
+  </figcaption>
+</figure>
+
+Nella seconda parte del programma, vengono gestiti i motori. Si è ipotizzato che il motore M1 debba fermarsi una volta iniziata la procedura di smistamento, mentre i motori M2 ed M3 possono restare sempre in movimento durante il funzionamento dell'impianto.
+
+<figure markdown="span">
+  ![Image title](images/esame2018_ladder_2.svg){ width="500" }
+  <figcaption markdown="span">
+    Programma Ladder: gestione dei motori.
   </figcaption>
 </figure>
 
