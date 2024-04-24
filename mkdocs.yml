@@ -13,6 +13,8 @@ nav:
     - 'sistemi-4/twincat.md'
   - Sistemi 5° anno:
     - 'sistemi-5/index.md'
+    - 'sistemi-5/trasduttori.md'
+    - 'sistemi-5/attuatori.md'
     - 'sistemi-5/controllo-motore-cc.md'
     - 'sistemi-5/esami-stato.md'
   - Scienze e tecnologie applicate:
