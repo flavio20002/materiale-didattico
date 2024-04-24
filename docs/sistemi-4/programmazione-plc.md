@@ -198,7 +198,7 @@ Una funzione è una porzione di codice che può essere chiamata da un programma 
 IF è usato per testare una condizione, ed eseguire le istruzioni successive solo al verificarsi della condizione. La condizione è rappresentata da un'espressione che ritorna un valore booleano, TRUE o FALSE. Se la condizione è verificata, le istruzioni successive sono eseguite. Altrimenti, viene testata la condizione successiva nel ramo chiamato ELSIF. Infine, se nessuna condizione è verificata, viene eseguito il codice contenuto nel ramo ELSE. I rami ELSIF ed ELSE sono opzionali.
 
 
- iecst
+``` iecst
 VAR
     nTemp       : INT;
     bHeatingOn  : BOOL;
@@ -213,6 +213,7 @@ ELSE
     bHeatingOn  := FALSE;
     bOpenWindow := FALSE;
 END_IF;
+```
 
 
 ### CASE
@@ -220,7 +221,7 @@ END_IF;
 CASE è usato per verificare più condizioni sulla stessa variabile. Le condizioni vengono verificate in sequenza e l'istruzione termina quando viene raggiunta la prima condizione verificata. Se nessuna condizione viene verificata, vengono eseguite le istruzioni contenute nel ramo ELSE.
 
 
- iecst
+``` iecst
 VAR
     int1       : INT;
     bool1      : BOOL;
@@ -239,7 +240,7 @@ ELSE
     bool1 := NOT BOOL1;
     bool2 := BOOL1 OR BOOL2;
 END_CASE;
-
+```
 
 ## Macchina a Stati
 
