@@ -22,11 +22,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="1.1016481"
-     inkscape:cx="702.12986"
-     inkscape:cy="300.45893"
+     inkscape:zoom="0.33148629"
+     inkscape:cx="604.85157"
+     inkscape:cy="419.32353"
      inkscape:window-width="1536"
      inkscape:window-height="792"
      inkscape:window-x="0"
@@ -36,8 +36,8 @@
     <inkscape:grid
        id="grid1"
        units="px"
-       originx="0.13360417"
-       originy="-3.2842993e-06"
+       originx="0.13360408"
+       originy="-4.4394856e-06"
        spacingx="1.3229166"
        spacingy="1.3229167"
        empcolor="#0099e5"
@@ -64,7 +64,7 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0.13360146)">
+     transform="translate(0.13360141)">
     <g
        id="g18"
        transform="translate(-226.21876,-227.54168)">

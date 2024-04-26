@@ -18,7 +18,7 @@ Un motore in corrente continua è costiuito da uno statore a magnete permanente 
 Un motore in corrente continua può essere rappresentato elettricamente dal seguente circuito:
 
 <figure markdown="span">
-  ![Image title](images/motore-cc-circuito.svg){ width="300" }
+  ![Image title](images/motore-cc-circuito.svg)
   <figcaption markdown="span">
     Circuito equivalente del motore in CC
   </figcaption>
