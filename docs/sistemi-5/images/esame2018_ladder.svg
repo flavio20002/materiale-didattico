@@ -2,8 +2,8 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="145.78673mm"
-   height="198.4375mm"
+   width="291.57346mm"
+   height="396.875mm"
    viewBox="0 0 145.78673 198.4375"
    version="1.1"
    id="svg1"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2.7379337"
-     inkscape:cx="163.80966"
-     inkscape:cy="143.17366"
+     inkscape:zoom="1.1016481"
+     inkscape:cx="702.12986"
+     inkscape:cy="300.45893"
      inkscape:window-width="1536"
      inkscape:window-height="792"
      inkscape:window-x="0"
@@ -36,8 +36,8 @@
     <inkscape:grid
        id="grid1"
        units="px"
-       originx="0.1336041"
-       originy="-2.8504089e-06"
+       originx="0.13360417"
+       originy="-3.2842993e-06"
        spacingx="1.3229166"
        spacingy="1.3229167"
        empcolor="#0099e5"
@@ -64,7 +64,7 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0.13360138)">
+     transform="translate(0.13360146)">
     <g
        id="g18"
        transform="translate(-226.21876,-227.54168)">
