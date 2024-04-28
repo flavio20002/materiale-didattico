@@ -1,8 +1,0 @@
-setup.py
-stlexer/__init__.py
-stlexer/lexer.py
-stlexer.egg-info/PKG-INFO
-stlexer.egg-info/SOURCES.txt
-stlexer.egg-info/dependency_links.txt
-stlexer.egg-info/entry_points.txt
-stlexer.egg-info/top_level.txt
