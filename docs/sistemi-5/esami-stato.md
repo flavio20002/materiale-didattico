@@ -93,7 +93,7 @@ Di seguito, sono riportatati i dispositivi di output:
 
 La cella di carico viene condizionata usando un amplificatore per strumentazione (INA111) in modo da ottenere una tensione di 10V in corrispondenza del fondoscala della cella di carico (15 Kg). In tal modo, ad ogni V corrisponderanno 1,5 Kg.
 
-Di seguito sono riportate tutte le variabili utilizzate dal programma, secondo lo standard IEC61131-3. Si assume che siano contenuti in un Global Variable List e che siano quindi disponibili ad ogni parte del programma.
+Di seguito sono riportate tutte le variabili globali, ovvero disponibili nell'intero progetto e possono essere utilizzate per la HMI.
 
 ``` iecst title="GVL"
 VAR_GLOBAL
@@ -123,6 +123,14 @@ VAR_GLOBAL
   M3 : BOOL;
   M4 : BOOL;
   M5 : BOOL;
+END_VAR
+```
+
+Di seguito invece, sono riportate le variabile del PRG MAIN, che sono visibili solo all'interno dello stesso PROG.
+
+``` iecst title="MAIN"
+VAR
+ 
 END_VAR
 ```
 

@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="1.257444"
-     inkscape:cx="277.14952"
-     inkscape:cy="444.55259"
+     inkscape:cx="887.11704"
+     inkscape:cy="56.463747"
      inkscape:window-width="1536"
      inkscape:window-height="792"
      inkscape:window-x="0"
@@ -181,14 +181,14 @@
     <text
        id="text5191-0-3-9-3-3"
        y="14.859"
-       x="111.03328"
+       x="109.44577"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          y="14.859"
-         x="111.03328"
+         x="109.44577"
          id="tspan5189-6-2-2-6-7"
-         sodipodi:role="line">Emergenza</tspan></text>
+         sodipodi:role="line">InEmergenza</tspan></text>
     <g
        id="g7"
        transform="translate(-291.04168,-214.31251)">
@@ -1067,14 +1067,14 @@
     <text
        id="text5191-0-3-9-3-0-5-7"
        y="186.49599"
-       x="21.180784"
+       x="13.534324"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          y="186.49599"
-         x="21.180784"
+         x="13.534324"
          id="tspan5189-6-2-2-6-6-6-4"
-         sodipodi:role="line">PB3</tspan></text>
+         sodipodi:role="line">InEmergenza</tspan></text>
     <g
        id="g18-4-5-6-4"
        transform="translate(-226.21876,-55.562503)">
