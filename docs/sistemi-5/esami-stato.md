@@ -152,16 +152,25 @@ Nella seconda parte del programma, vengono gestiti i motori. Si è ipotizzato ch
   </figcaption>
 </figure>
 
-Nella terza parte del programma, viene gestito la pesatura del prosciutto e la rotazione della piattaforma. Un timer TON di 200 ms permette di evitare falsi positivi sull'effettiva presenza del prosciutto sulla linea di arrivo. Si ritiene sufficiente l'inerzia del motore del nastro per trasferire il prosciutto sulla piattaforma girevole. Tale aspetto andrà verificato in fase di collaudo dell'impianto e può essere modificato inserendo un timer di tipo TOF per lo spegnimento del motore M1.
+Nella terza parte del programma, viene gestito la pesatura del prosciutto. Un timer TON di 200 ms permette di evitare falsi positivi sull'effettiva presenza del prosciutto sulla linea di arrivo. Si ritiene sufficiente l'inerzia del motore del nastro per trasferire il prosciutto sulla piattaforma girevole. Tale aspetto andrà verificato in fase di collaudo dell'impianto e può essere modificato inserendo un timer di tipo TOF per lo spegnimento del motore M1.
 
 <figure markdown="span">
   ![Image title](images/esame2018_ladder_3.svg){ width="500" }
   <figcaption markdown="span">
-    Programma Ladder: gestione della pesatura e rotazione.
+    Programma Ladder: gestione della pesatura.
   </figcaption>
 </figure>
 
-Nella quarta parte del programma, viene gestito lo smistamento del prosciutto nella linea corretta, attivando i micro rulli, verificando l'effettiva presenza del prosciutto nel contenitore corretto tramite il segnale in arrivo dalla fotocellula e portandosi in condizione di anomalia qualora il prosciutto non sia arrivato correttamente nel contenitore.
+Nella quarta parte del programma, viene gestita la rotazione della piattaforma. Se il peso rilevato è minore di 5Kg, non vi sarà alcuna rotazione.
+
+<figure markdown="span">
+  ![Image title](images/esame2018_ladder_3.svg){ width="500" }
+  <figcaption markdown="span">
+    Programma Ladder: rotazione della piattaforma.
+  </figcaption>
+</figure>
+
+Nella quinta parte del programma, viene gestito lo smistamento del prosciutto nella linea corretta, attivando i micro rulli, verificando l'effettiva presenza del prosciutto nel contenitore corretto tramite il segnale in arrivo dalla fotocellula e portandosi in condizione di anomalia qualora il prosciutto non sia arrivato correttamente nel contenitore.
 
 <figure markdown="span">
   ![Image title](images/esame2018_ladder_3.svg){ width="500" }
