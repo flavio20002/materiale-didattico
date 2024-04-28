@@ -1,1 +1,3 @@
 *.bkp
+stlexer.egg-info
+StLexer/build
