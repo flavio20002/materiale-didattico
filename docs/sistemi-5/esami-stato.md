@@ -93,6 +93,39 @@ Di seguito, sono riportatati i dispositivi di output:
 
 La cella di carico viene condizionata usando un amplificatore per strumentazione (INA111) in modo da ottenere una tensione di 10V in corrispondenza del fondoscala della cella di carico (15 Kg). In tal modo, ad ogni V corrisponderanno 1,5 Kg.
 
+Di seguito sono riportate tutte le variabili utilizzate dal programma, secondo lo standard IEC61131-3. Si assume che siano contenuti in un Global Variable List e che siano quindi disponibili ad ogni parte del programma.
+
+``` iecst title="GVL"
+VAR_GLOBAL
+  //input
+  PB1: BOOL;
+  PB2: BOOL;
+  PBE: BOOL;
+  PS1: BOOL;
+  PS2: BOOL;
+  PS3: BOOL;
+  PS4: BOOL;
+  FS1: BOOL;
+  FS2: BOOL;
+  SB1: BOOL;
+  SB2: BOOL;
+  SB3: BOOL;
+  LC1: REAL; //Valore di tensione da 0V a 10V (0 Kg - 15 Kg)
+
+  //output
+  L1: BOOL;
+  L2: BOOL;
+  L3: BOOL;
+  L4: BOOL;
+  L5: BOOL;
+  M1 : BOOL;
+  M2 : BOOL;
+  M3 : BOOL;
+  M4 : BOOL;
+  M5 : BOOL;
+END_VAR
+```
+
 Nella prima parte del programma, vengono gestiti i pulsanti e le luci di segnalazione. La variabile Stop indica che è stato richiesto uno stop, che può avvenire perché il pulsante di stop è stato premuto, oppure perché uno dei contenitori è pieno. Il pulsante di stop ha effetto solo una volta terminato lo smistamento del prosciutto corrente in modo da lasciare la macchina in uno stato gestito.
 
 <figure markdown="span">
@@ -111,12 +144,21 @@ Nella seconda parte del programma, vengono gestiti i motori. Si è ipotizzato ch
   </figcaption>
 </figure>
 
-Nella terza parte del programma, viene gestito lo smistamento del prosciutto. Un timer TON di 200 ms permette di evitare falsi positivi sull'effettiva presenza del prosciutto sulla linea di arrivo. Si ritiene sufficiente l'inerzia del motore del nastro per trasferire il prosciutto sulla piattaforma girevole. Tale aspetto andrà verificato in fase di collaudo dell'impianto e può essere modificato inserendo un timer di tipo TOF per lo spegnimento del motore M1.
+Nella terza parte del programma, viene gestito la pesatura del prosciutto e la rotazione della piattaforma. Un timer TON di 200 ms permette di evitare falsi positivi sull'effettiva presenza del prosciutto sulla linea di arrivo. Si ritiene sufficiente l'inerzia del motore del nastro per trasferire il prosciutto sulla piattaforma girevole. Tale aspetto andrà verificato in fase di collaudo dell'impianto e può essere modificato inserendo un timer di tipo TOF per lo spegnimento del motore M1.
 
 <figure markdown="span">
   ![Image title](images/esame2018_ladder_3.svg){ width="500" }
   <figcaption markdown="span">
-    Programma Ladder: gestione dello smistamento.
+    Programma Ladder: gestione della pesatura e rotazione.
+  </figcaption>
+</figure>
+
+Nella quarta parte del programma, viene gestito lo smistamento del prosciutto nella linea corretta, attivando i micro rulli, verificando l'effettiva presenza del prosciutto nel contenitore corretto tramite il segnale in arrivo dalla fotocellula e portandosi in condizione di anomalia qualora il prosciutto non sia arrivato correttamente nel contenitore.
+
+<figure markdown="span">
+  ![Image title](images/esame2018_ladder_3.svg){ width="500" }
+  <figcaption markdown="span">
+    Programma Ladder: smistamento del prosciutto.
   </figcaption>
 </figure>
 

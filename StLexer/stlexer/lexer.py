@@ -44,7 +44,7 @@ class IecstLexer(Lexer):
         'label', 'mod', 'nil', 'not', 'object', 'of', 'on', 'operator',
         'or', 'packed', 'procedure', 'program', 'record', 'reintroduce',
         'repeat', 'self', 'set', 'shl', 'shr', 'string', 'then', 'to',
-        'type', 'unit', 'until', 'uses', 'var','end_var', 'while', 'with', 'xor'
+        'type', 'unit', 'until', 'uses', 'var','end_var', 'var_global', 'while', 'with', 'xor'
     )
 
     DELPHI_KEYWORDS = (
