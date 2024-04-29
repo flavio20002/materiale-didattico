@@ -60,6 +60,19 @@ Gli alternatori di corrente sono macchine elettriche rotanti che permettono di t
   </figcaption>
 </figure>
 
+## Il trasformatore
+
+## Il condensatore
+
+## L'induttore
+
+## Il diodo
+
+## Il diodo Zener
+
+## L'alimentatore
+
+
 ## Esercizi
 
 1. Un elettrodomestico possiede una resistenza elettrica di $20 \; \Omega$ e viene alimentato con una tensione alternata di valore massimo di $155{,}6 \; V$. Calcolare il costo dell'energia elettrica per un funzionamento di 20 minuti considerando un presso dell'energia di $0{,}2 \; \text{€/kWh}$
