@@ -74,7 +74,6 @@ Di seguito, sono riportatati i dispositivi di input:
 | SB3       | Sensore di finecorsa che indica la rotazione di 90° a sinistra|Digitale 24V|
 | LC1       | Cella di carico che misura il peso del prosciutto.|Analogico 10V|
 
-
 Di seguito, sono riportatati i dispositivi di output:
 
 | Codice      | Descrizione                          | Tipo segnale |
@@ -161,16 +160,16 @@ Nella terza parte del programma, viene gestito la pesatura del prosciutto. Un ti
   </figcaption>
 </figure>
 
-Nella quarta parte del programma, viene gestita la rotazione della piattaforma. Se il peso rilevato è minore di 5Kg, non vi sarà alcuna rotazione.
+Nella quarta parte del programma, viene gestita la rotazione della piattaforma. Se il peso rilevato è minore di 5 Kg, non vi sarà alcuna rotazione. In questa parte di programma viene gestita anche la rotazione verso la posizione iniziale, effettuata alla fine dello smistamento.
 
 <figure markdown="span">
-  ![Image title](images/esame2018_ladder_3.svg){ width="500" }
+  ![Image title](images/esame2018_ladder_4.svg){ width="500" }
   <figcaption markdown="span">
     Programma Ladder: rotazione della piattaforma.
   </figcaption>
 </figure>
 
-Nella quinta parte del programma, viene gestito lo smistamento del prosciutto nella linea corretta, attivando i micro rulli, verificando l'effettiva presenza del prosciutto nel contenitore corretto tramite il segnale in arrivo dalla fotocellula e portandosi in condizione di anomalia qualora il prosciutto non sia arrivato correttamente nel contenitore.
+Nella quinta parte del programma, viene gestito lo smistamento del prosciutto nella linea corretta. Come prima cosa vengono attivati i micro rulli ed infine viene verificata l'effettiva presenza del prosciutto nel contenitore corretto tramite il segnale della fotocellula. Nel caso in cui il motore dei micro rulli rimanha acceso per più di 10 secondi senza che venga rilevata la presenza di un prosciutto in uno dei contenitori, l'impianto passa in condizione di anomalia e si ferma. In tal caso, l'operatore dovrò dapprima verificare la presenza di prosciutti bloccati e successivamente verificare il funzionamento delle fotocellule.
 
 <figure markdown="span">
   ![Image title](images/esame2018_ladder_3.svg){ width="500" }
@@ -178,5 +177,6 @@ Nella quinta parte del programma, viene gestito lo smistamento del prosciutto ne
     Programma Ladder: smistamento del prosciutto.
   </figcaption>
 </figure>
+
 
 ### Seconda parte
