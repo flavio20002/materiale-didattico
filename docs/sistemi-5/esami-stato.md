@@ -90,7 +90,7 @@ Di seguito, sono riportatati i dispositivi di output:
 | L5          | Lampada di segnalazione rossa (condizione di emergenza)               | Digitale 24V|
 
 
-La cella di carico viene condizionata usando un amplificatore per strumentazione (INA111) in modo da ottenere una tensione di 10V in corrispondenza del fondoscala della cella di carico (15 Kg). In tal modo, ad ogni V corrisponderanno 1,5 Kg.
+La cella di carico viene condizionata usando un amplificatore per strumentazione (INA111) in modo da ottenere una tensione di 10V in corrispondenza del fondoscala della cella di carico (15 Kg). In tal modo, ad ogni Volt corrisponderanno 1,5 Kg. Di seguito viene riportato lo schema di principio dell'amplificatore per strumentazione:
 
 Di seguito sono riportate tutte le variabili globali, ovvero disponibili nell'intero progetto e possono essere utilizzate per la HMI.
 
@@ -142,6 +142,7 @@ VAR
   PesoMin5: BOOL;
   PesoMag10: BOOL;
   PesoIntermedio: BOOL;
+  ProsciuttoSmistato: BOOL;
   //Timer
   TON_PS1: TON;
   TON_Pesatura: TON;
@@ -188,7 +189,7 @@ Nella quarta parte del programma, viene gestita la rotazione della piattaforma. 
 Nella quinta parte del programma, viene gestito lo smistamento del prosciutto nella linea corretta. Come prima cosa vengono attivati i micro rulli ed infine viene verificata l'effettiva presenza del prosciutto nel contenitore corretto tramite il segnale della fotocellula. Nel caso in cui il motore dei micro rulli rimanha acceso per più di 10 secondi senza che venga rilevata la presenza di un prosciutto in uno dei contenitori, l'impianto passa in condizione di anomalia e si ferma. In tal caso, l'operatore dovrò dapprima verificare la presenza di prosciutti bloccati e successivamente verificare il funzionamento delle fotocellule.
 
 <figure markdown="span">
-  ![Image title](images/esame2018_ladder_3.svg){ width="500" }
+  ![Image title](images/esame2018_ladder_5.svg){ width="500" }
   <figcaption markdown="span">
     Programma Ladder: smistamento del prosciutto.
   </figcaption>
