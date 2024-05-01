@@ -195,5 +195,6 @@ Nella quinta parte del programma, viene gestito lo smistamento del prosciutto ne
   </figcaption>
 </figure>
 
+[Scarica il progetto](files/Esame2018.tnzip)
 
 ### Seconda parte
