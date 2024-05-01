@@ -125,11 +125,27 @@ VAR_GLOBAL
 END_VAR
 ```
 
-Di seguito invece, sono riportate le variabile del PRG MAIN, che sono visibili solo all'interno dello stesso PROG.
+Di seguito, invece, sono riportate le variabile del PRG MAIN, che sono visibili solo all'interno dello stesso PROG.
 
 ``` iecst title="MAIN"
 VAR
- 
+  StopRichiesto: BOOL;
+  Anomalia: BOOL;
+  Emergenza: BOOL;
+  Funzione: BOOL;
+  Smistamento: BOOL;
+  Rotazione: BOOL;
+  AttivaMicroRulli: BOOL;
+  FineSmistamento: BOOL;
+  FinePesatura: BOOL;
+  RuotaOrigine: BOOL;
+  PesoMin5: BOOL;
+  PesoMag10: BOOL;
+  PesoIntermedio: BOOL;
+  //Timer
+  TON_PS1: TON;
+  TON_Pesatura: TON;
+  TON_MicroRulli: TON;
 END_VAR
 ```
 
@@ -142,7 +158,7 @@ Nella prima parte del programma, vengono gestiti i pulsanti e le luci di segnala
   </figcaption>
 </figure>
 
-Nella seconda parte del programma, vengono gestiti i motori. Si è ipotizzato che il motore M1 debba fermarsi una volta iniziata la procedura di smistamento, mentre i motori M2 ed M3 possono restare sempre in movimento durante il funzionamento dell'impianto.
+Nella seconda parte del programma, vengono gestiti i motori. Si è ipotizzato che il motore M1 debba fermarsi una volta iniziata la procedura di smistamento, mentre i motori M2 ed M3 possono restare sempre in movimento durante il funzionamento dell'impianto. Inoltre, il motore M1 richiede che la piattaforma sia ruotata nella posizione di partenza  (segnale SB1 a livello alto) per poter funzionare.
 
 <figure markdown="span">
   ![Image title](images/esame2018_ladder_2.svg){ width="500" }
