@@ -47,7 +47,7 @@ movimentazione dei nastri, nonché i pulsanti di marcia e arresto dell’impiant
 
 **Soluzione:**
 
-Di seguito viene riportato lo schema dell'impianto.
+#### Schema dell'impianto
 
 <figure markdown="span">
   ![Image title](images/esame2018_schema.svg){ width="500" }
@@ -55,6 +55,8 @@ Di seguito viene riportato lo schema dell'impianto.
     Schema dell'impianto
   </figcaption>
 </figure>
+
+#### Dispositivi di I/O
 
 Di seguito, sono riportatati i dispositivi di input:
 
@@ -92,7 +94,7 @@ Di seguito, sono riportatati i dispositivi di output:
 
 La cella di carico viene condizionata usando un amplificatore per strumentazione (INA111) in modo da ottenere una tensione di 10V in corrispondenza del fondoscala della cella di carico (15 Kg). In tal modo, ad ogni Volt corrisponderanno 1,5 Kg. Di seguito viene riportato lo schema di principio dell'amplificatore per strumentazione:
 
-Di seguito sono riportate tutte le variabili globali, ovvero disponibili nell'intero progetto e possono essere utilizzate per la HMI.
+Di seguito sono riportate tutte le variabili globali, ovvero disponibili nell'intero progetto e possono essere utilizzate anche dalla HMI.
 
 ``` iecst title="GVL"
 VAR_GLOBAL
@@ -125,7 +127,7 @@ VAR_GLOBAL
 END_VAR
 ```
 
-Di seguito, invece, sono riportate le variabile del PRG MAIN, che sono visibili solo all'interno dello stesso PROG.
+Di seguito, invece, sono riportate le variabile interne al PRG MAIN.
 
 ``` iecst title="MAIN"
 VAR
@@ -149,6 +151,8 @@ VAR
   TON_MicroRulli: TON;
 END_VAR
 ```
+
+#### Implementazione in linguaggio Ladder
 
 Nella prima parte del programma, vengono gestiti i pulsanti e le luci di segnalazione. La variabile Stop indica che è stato richiesto uno stop, che può avvenire perché il pulsante di stop è stato premuto, oppure perché uno dei contenitori è pieno. Il pulsante di stop ha effetto solo una volta terminato lo smistamento del prosciutto corrente in modo da lasciare la macchina in uno stato gestito.
 
@@ -195,6 +199,6 @@ Nella quinta parte del programma, viene gestito lo smistamento del prosciutto ne
   </figcaption>
 </figure>
 
-[Scarica il progetto](files/Esame2018.tnzip)
+[Scarica il progetto TwinCAT](files/Esame2018.tnzip)
 
 ### Seconda parte
