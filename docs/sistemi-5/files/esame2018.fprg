@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Flavio"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-05-02 09:39:55 "/>
+        <attribute name="created" value="RmxhdmlvO0RFU0tUT1AtVEhHMTlKNjsyMDI0LTA1LTAyOyIwOTozNTowMCAiOzI4NDA="/>
+        <attribute name="edited" value="RmxhdmlvO0RFU0tUT1AtVEhHMTlKNjsyMDI0LTA1LTAyOyIwOTozOTo1NSAiOzE7Mjk2Mg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="PB1, PB2, PBE, PS1, PS2, PS3, PS4, SB1" type="Boolean" array="False" size=""/>
+            <declare name="Funzione" type="Boolean" array="False" size=""/>
+            <while expression="TRUE">
+                <input variable="PB1"/>
+                <if expression="PB1">
+                    <then>
+                        <assign variable="Funzione" expression="true"/>
+                    </then>
+                    <else/>
+                </if>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
