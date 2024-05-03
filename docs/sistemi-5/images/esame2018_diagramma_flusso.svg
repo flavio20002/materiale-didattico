@@ -29,9 +29,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="3.3425189"
-     inkscape:cx="280.4771"
-     inkscape:cy="387.58195"
+     inkscape:zoom="4.6157175"
+     inkscape:cx="39.755466"
+     inkscape:cy="-82.002419"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
@@ -132,7 +132,7 @@
     </g>
     <g
        id="path30-4"
-       transform="matrix(0.54236778,0,0,0.36853473,-59.960666,-2.4080472)">
+       transform="matrix(0.54236778,0,0,0.36853473,-60.106754,-2.4055078)">
       <path
          style="color:#000000;fill:#aaccee;-inkscape-stroke:none"
          d="M 334.68604,124.99999 305.95492,153.7311 277.22381,124.99999 305.95493,96.268881 Z"
@@ -237,16 +237,8 @@
          id="tspan5189-6-2-2-6-9-0-9"
          sodipodi:role="line">Inizio</tspan></text>
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
-       d="M 105.83333,19.84375 V 33.072916"
-       id="path10" />
-    <path
-       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="m 105.83333,33.072914 -0.79375,-1.322917 h 1.5875 z"
-       id="path11" />
-    <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
-       d="m 121.70834,43.656252 h 10.58334 v 10.583333"
+       d="m 121.41617,43.66133 10.87551,-0.0051 v 10.583333"
        id="path12"
        sodipodi:nodetypes="ccc" />
     <text
@@ -295,13 +287,9 @@
          sodipodi:role="line">Falso</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
-       d="m 90.396599,43.658791 -11.021595,-0.0025 V 26.458333 l 26.458326,-1e-6"
+       d="m 90.704329,43.661333 -11.329325,-0.005 v -17.198 l 24.341666,1e-6"
        id="path13"
        sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
-       d="m 105.64447,26.458334 -1.32292,0.79375 v -1.5875 z"
-       id="path11-4" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
        d="m 132.29168,54.239585 -0.79375,-1.32292 h 1.5875 z"
@@ -343,7 +331,7 @@
        id="path11-4-3-1" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
-       d="m 147.87451,91.286331 10.8755,-0.0051 v 10.583318"
+       d="m 148.16668,91.281253 10.58333,-1e-6 v 10.583318"
        id="path17"
        sodipodi:nodetypes="ccc" />
     <text
@@ -425,7 +413,7 @@
          id="tspan17-29" /></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
-       d="m 158.75001,218.28126 v 13.22916 h 26.45834 l -0.19394,-182.694793 -52.72273,0.132291"
+       d="m 158.75001,218.28126 v 13.22916 h 26.45834 l -0.19394,-182.694793 -50.60606,0.132292"
        id="path23"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -453,9 +441,26 @@
        d="m 158.75001,178.59376 -0.79375,-1.32292 h 1.5875 z"
        id="path11-4-3-1-8-6" />
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
-       d="m 132.29167,48.947918 1.32292,-0.79375 v 1.5875 z"
-       id="path11-4-3-1-8-1" />
+       style="fill:#000000;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+       d="m 105.56876,26.458334 -1.85209,0.926042 v -1.852083 z"
+       id="path11-0-8-2" />
+    <path
+       style="fill:#000000;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+       d="m 132.55626,48.947924 1.85209,-0.92605 v 1.85209 z"
+       id="path11-0-8-2-2" />
+    <g
+       id="g33-0"
+       transform="rotate(-90,117.58536,51.439437)">
+      <path
+         style="fill:#000000;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+         d="m 136.26043,39.687502 1.85209,-0.92605 v 1.85209 z"
+         id="path11-0-8-2-2-4-7" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+         d="m 138.11252,39.687498 11.06853,-7.9e-5"
+         id="path33-3"
+         sodipodi:nodetypes="cc" />
+    </g>
   </g>
   <metadata
      id="metadata11">
