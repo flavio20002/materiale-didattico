@@ -193,7 +193,7 @@ Nella quarta parte del programma, viene gestita la rotazione della piattaforma. 
 Nella quinta parte del programma, viene gestito lo smistamento del prosciutto nella linea corretta. Come prima cosa vengono attivati i micro rulli ed infine viene verificata l'effettiva presenza del prosciutto nel contenitore corretto tramite il segnale della fotocellula. Nel caso in cui il motore dei micro rulli rimanha acceso per più di 10 secondi senza che venga rilevata la presenza di un prosciutto in uno dei contenitori, l'impianto passa in condizione di anomalia e si ferma. In tal caso, l'operatore dovrò dapprima verificare la presenza di prosciutti bloccati e successivamente verificare il funzionamento delle fotocellule.
 
 <figure markdown="span">
-  ![Image title](images/esame2018_ladder_5.svg){ width="500" }
+  ![Image title](images/esame2018_ladder_5.svg){ width="550" }
   <figcaption markdown="span">
     Programma Ladder: smistamento del prosciutto.
   </figcaption>
