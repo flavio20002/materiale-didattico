@@ -92,7 +92,16 @@ Di seguito, sono riportatati i dispositivi di output:
 | L5          | Lampada di segnalazione rossa (condizione di emergenza)               | Digitale 24V|
 
 
-La cella di carico viene condizionata usando un amplificatore per strumentazione (INA111) in modo da ottenere una tensione di 10V in corrispondenza del fondoscala della cella di carico (15 Kg). In tal modo, ad ogni Volt corrisponderanno 1,5 Kg. Di seguito viene riportato lo schema di principio dell'amplificatore per strumentazione:
+La cella di carico viene condizionata usando un amplificatore per strumentazione (INA111) in modo da ottenere una tensione di 10V in corrispondenza del fondoscala della cella di carico (15 Kg). In tal modo, ad ogni Volt corrisponderanno 1,5 Kg. Di seguito viene riportato lo schema di principio dell'amplificatore per strumentazione e la relazione tra ingressi e uscita:
+
+<figure markdown="span">
+  ![Image title](images/amplificatore-strumentazione.svg)
+  <figcaption markdown="span">
+    Amplificatore per strumentazione
+  </figcaption>
+</figure>
+
+$$ v_o = (v_{i1} - v_{i2}) \cdot \frac{R_4}{R_3} \cdot \left(1+ \frac{2R_2}{R_1}\right) $$
 
 Di seguito sono riportate tutte le variabili globali, ovvero disponibili nell'intero progetto e possono essere utilizzate anche dalla HMI.
 
