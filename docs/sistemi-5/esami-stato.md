@@ -161,6 +161,16 @@ VAR
 END_VAR
 ```
 
+#### Diagramma di flusso
+
+<figure markdown="span">
+  ![Image title](images/esame2018_diagramma_flusso.svg){ width="500" }
+  <figcaption markdown="span">
+    Diagramma di flusso
+  </figcaption>
+</figure>
+
+
 #### Implementazione in linguaggio Ladder
 
 Nella prima parte del programma, vengono gestiti i pulsanti e le luci di segnalazione. La variabile Stop indica che è stato richiesto uno stop, che può avvenire perché il pulsante di stop è stato premuto, oppure perché uno dei contenitori è pieno. Il pulsante di stop ha effetto solo una volta terminato lo smistamento del prosciutto corrente in modo da lasciare la macchina in uno stato gestito.
