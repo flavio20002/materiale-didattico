@@ -1,4 +1,5 @@
 site_name: Prof. Flavio Barisi
+site_url: https://www.flaviobarisi.it
 theme:
   name: material
   language: it
