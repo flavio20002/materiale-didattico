@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="131.25092mm"
-   height="103.5847mm"
-   viewBox="0 0 87.500609 69.056466"
+   width="494.94928"
+   height="396.90994"
+   viewBox="0 0 329.96619 264.60663"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
@@ -12,12 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title
-     id="title1">Electric Symbols</title>
+   xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
@@ -29,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="8.7625406"
-     inkscape:cx="410.95387"
-     inkscape:cy="198.57255"
+     inkscape:zoom="26.728336"
+     inkscape:cx="295.04269"
+     inkscape:cy="215.35198"
      inkscape:window-width="1536"
      inkscape:window-height="792"
      inkscape:window-x="0"
@@ -41,10 +36,10 @@
     <inkscape:grid
        id="grid1"
        units="px"
-       originx="-1.8497551"
-       originy="-36.90916"
-       spacingx="1.3229166"
-       spacingy="1.3229167"
+       originx="-1.1558033"
+       originy="-0.8933487"
+       spacingx="5"
+       spacingy="5"
        empcolor="#0099e5"
        empopacity="0.30196078"
        color="#0099e5"
@@ -57,10 +52,10 @@
     <inkscape:page
        x="0"
        y="0"
-       width="87.500603"
-       height="69.056465"
-       id="page9"
-       margin="6.6145835"
+       width="329.96619"
+       height="264.60663"
+       id="page1"
+       margin="25"
        bleed="0" />
   </sodipodi:namedview>
   <defs
@@ -90,30 +85,30 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1.8497555,-36.909156)">
+     transform="translate(72.688406,-26.78669)">
     <text
        id="text5191-0-3-9-3-1-2-70"
-       y="46.911346"
-       x="12.150335"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="68.196075"
+       x="-32.921661"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
-         y="46.911346"
-         x="12.150335"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.999999"
+         y="68.196075"
+         x="-32.921661"
          id="tspan5189-6-2-2-6-9-0-9"
          sodipodi:role="line">v<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:end;baseline-shift:sub;text-anchor:end"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:end;baseline-shift:sub;text-anchor:end;stroke-width:0.999999"
    id="tspan21">i1</tspan></tspan></text>
     <g
        id="g2"
-       transform="matrix(0.26458333,0,0,0.26458333,-31.617708,-281.25208)" />
+       transform="translate(-198.34419,-1172.1068)" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="m 13.229166,46.302082 h 6.614583"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="M -28.844193,65.893334 H -3.8441937"
        id="path1" />
     <g
        id="use179286"
-       transform="translate(-236.80208,-85.33333)">
+       transform="matrix(3.7795276,0,0,3.7795276,-973.84419,-431.62635)">
       <title
          id="title2">Opamp_L</title>
       <path
@@ -173,41 +168,41 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-9-7"
-       y="58.208332"
-       x="21.276291"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="110.89334"
+       x="1.5701386"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="58.208332"
-         x="21.276291"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="110.89334"
+         x="1.5701386"
          id="tspan5189-6-2-2-6-9-0-9-3-2"
          sodipodi:role="line">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub;stroke-width:0.999999"
    id="tspan10">2</tspan></tspan></text>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="M 19.84375,51.593747 H 14.552083 V 62.177081 H 19.84375"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="M -3.8441899,85.893328 H -23.844192 v 39.999992 h 20.0000021"
        id="path11" />
     <text
        id="text5191-0-3-9-3-1-2-70-9-7-9"
-       y="71.336601"
-       x="8.1198292"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="160.51198"
+       x="-48.155071"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="71.336601"
-         x="8.1198292"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="160.51198"
+         x="-48.155071"
          id="tspan5189-6-2-2-6-9-0-9-3-2-4"
          sodipodi:role="line">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub;stroke-width:0.999999"
    id="tspan9">1</tspan></tspan></text>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="M 14.552083,67.468748 V 62.177081"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="M -23.844192,145.89333 V 125.89332"
        id="path12" />
     <g
        id="use25588-4-1-2"
-       transform="matrix(0,1,-1.0416666,0,-14.05597,-23.812501)"
+       transform="matrix(0,3.7795276,-3.9370077,0,-131.96912,-199.10667)"
        style="stroke-width:0.979795">
       <title
          id="title23-2-1-0">Resistor_US</title>
@@ -258,7 +253,7 @@
     </g>
     <g
        id="use25588-4-1-2-1"
-       transform="matrix(-1,0,0,-1.0416666,100.54167,33.569028)"
+       transform="matrix(-3.7795276,0,0,-3.9370077,301.15582,17.768405)"
        style="stroke-width:0.979795">
       <title
          id="title23-2-1-0-0">Resistor_US</title>
@@ -308,42 +303,42 @@
          id="title31-8-2-7-0">Resistor_US</title>
     </g>
     <ellipse
-       ry="0.39901915"
-       rx="0.40116644"
-       cy="62.177082"
-       cx="14.552083"
+       ry="1.5081038"
+       rx="1.5162196"
+       cy="125.89335"
+       cx="-23.844193"
        id="path5953-3"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.967559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <ellipse
-       ry="0.39901915"
-       rx="0.40116644"
-       cy="79.375"
-       cx="14.552083"
+       ry="1.5081038"
+       rx="1.5162196"
+       cy="190.89333"
+       cx="-23.844193"
        id="path5953-3-8"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.967559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <ellipse
-       ry="0.39901915"
-       rx="0.40116644"
-       cy="46.302082"
-       cx="13.229166"
+       ry="1.5081038"
+       rx="1.5162196"
+       cy="65.893349"
+       cx="-28.844193"
        id="path5953"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.967559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <text
        id="text5191-0-3-9-3-1-2-70-9-7-8"
-       y="75.40625"
-       x="21.276291"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="175.89333"
+       x="1.5701386"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="75.40625"
-         x="21.276291"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="175.89333"
+         x="1.5701386"
          id="tspan5189-6-2-2-6-9-0-9-3-2-2"
          sodipodi:role="line">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub;stroke-width:0.999999"
    id="tspan11">2</tspan></tspan></text>
     <g
        id="use25588-4-1-2-7"
-       transform="matrix(0,1,-1.0416666,0,-14.05597,-6.6145818)"
+       transform="matrix(0,3.7795276,-3.9370077,0,-131.96912,-134.10666)"
        style="stroke-width:0.979795">
       <title
          id="title23-2-1-0-4">Resistor_US</title>
@@ -393,12 +388,12 @@
          id="title31-8-2-7-6">Resistor_US</title>
     </g>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="m 14.552088,74.08333 -5e-6,5.29167 h 5.291668"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="m -23.844173,170.89332 -1.9e-5,20.00001 h 20.0000059"
        id="path15" />
     <g
        id="use179286-5"
-       transform="matrix(1,0,0,-1,-236.80208,226.8854)">
+       transform="matrix(3.7795276,0,0,-3.7795276,-973.84419,748.41296)">
       <title
          id="title2-2">Opamp_L</title>
       <path
@@ -457,53 +452,53 @@
          id="title7-4">Opamp_L</title>
     </g>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="M 19.843751,89.958334 H 14.552083 V 79.375"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="M -3.8441861,230.89334 H -23.844192 v -40.00001"
        id="path16" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="m 26.458332,79.375 h 6.614583 v 13.229167 h -2.645833"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="m 21.155805,190.89333 h 24.999999 v 50.00001 h -9.999999"
        id="path19" />
     <text
        id="text5191-0-3-9-3-1-2-70-0"
-       y="95.867363"
-       x="12.055165"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="253.22667"
+       x="-33.281361"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
-         y="95.867363"
-         x="12.055165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.999999"
+         y="253.22667"
+         x="-33.281361"
          id="tspan5189-6-2-2-6-9-0-9-2"
          sodipodi:role="line">v<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:end;baseline-shift:sub;text-anchor:end"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:end;baseline-shift:sub;text-anchor:end;stroke-width:0.999999"
    id="tspan22">i2</tspan></tspan></text>
     <text
        id="text5191-0-3-9-3-1-2-70-0-8"
-       y="77.386116"
-       x="79.375"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="183.37628"
+       x="221.15581"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="77.386116"
-         x="79.375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="183.37628"
+         x="221.15581"
          id="tspan5189-6-2-2-6-9-0-9-2-4"
          sodipodi:role="line">v<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub;stroke-width:0.999999"
    id="tspan34">o</tspan></tspan></text>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="M 13.229167,95.250001 H 19.84375"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="M -28.844189,250.89334 H -3.8441899"
        id="path1-7" />
     <ellipse
-       ry="0.39901915"
-       rx="0.40116644"
-       cy="95.25"
-       cx="13.229166"
+       ry="1.5081038"
+       rx="1.5162196"
+       cy="250.89333"
+       cx="-28.844193"
        id="path5953-4"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.967559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <g
        id="use179286-5-5"
-       transform="matrix(1,0,0,-1,-198.4375,204.39582)">
+       transform="matrix(3.7795276,0,0,-3.7795276,-828.8442,663.41297)">
       <title
          id="title2-2-8">Opamp_L</title>
       <path
@@ -563,20 +558,20 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-9-7-7"
-       y="58.208332"
-       x="41.110867"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="110.89334"
+       x="76.535469"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="58.208332"
-         x="41.110867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="110.89334"
+         x="76.535469"
          id="tspan5189-6-2-2-6-9-0-9-3-2-46"
          sodipodi:role="line">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub;stroke-width:0.999999"
    id="tspan3">3</tspan></tspan></text>
     <g
        id="use25588-4-1-2-3"
-       transform="matrix(0,1,-1.0416666,0,5.7877793,-23.812498)"
+       transform="matrix(0,3.7795276,-3.9370077,0,-56.969119,-199.10666)"
        style="stroke-width:0.979795">
       <title
          id="title23-2-1-0-6">Resistor_US</title>
@@ -627,20 +622,20 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-9-7-7-2"
-       y="75.40625"
-       x="41.110867"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="175.89333"
+       x="76.535469"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="75.40625"
-         x="41.110867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="175.89333"
+         x="76.535469"
          id="tspan5189-6-2-2-6-9-0-9-3-2-46-9"
          sodipodi:role="line">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub;stroke-width:0.999999"
    id="tspan4">3</tspan></tspan></text>
     <g
        id="use25588-4-1-2-3-5"
-       transform="matrix(0,1,-1.0416666,0,5.7877793,-6.6145807)"
+       transform="matrix(0,3.7795276,-3.9370077,0,-56.969119,-134.10666)"
        style="stroke-width:0.979795">
       <title
          id="title23-2-1-0-6-1">Resistor_US</title>
@@ -690,35 +685,35 @@
          id="title31-8-2-7-9-6">Resistor_US</title>
     </g>
     <ellipse
-       ry="0.39901915"
-       rx="0.40116644"
-       cy="62.177086"
-       cx="33.072914"
+       ry="1.5081038"
+       rx="1.5162196"
+       cy="125.89338"
+       cx="46.155804"
        id="path5953-3-4-56"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.967559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <ellipse
-       ry="0.39901915"
-       rx="0.40116644"
-       cy="79.375"
-       cx="33.072914"
+       ry="1.5081038"
+       rx="1.5162196"
+       cy="190.89333"
+       cx="46.155804"
        id="path5953-3-4-5"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.967559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <text
        id="text5191-0-3-9-3-1-2-70-9-7-7-9"
-       y="44.979164"
-       x="59.61565"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="60.893333"
+       x="146.47479"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="44.979164"
-         x="59.61565"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="60.893333"
+         x="146.47479"
          id="tspan5189-6-2-2-6-9-0-9-3-2-46-3"
          sodipodi:role="line">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub;stroke-width:0.999999"
    id="tspan5">4</tspan></tspan></text>
     <g
        id="use25588-4-1-2-3-2"
-       transform="matrix(0,1,-1.0416666,0,24.308612,-37.041666)"
+       transform="matrix(0,3.7795276,-3.9370077,0,13.030879,-249.10667)"
        style="stroke-width:0.979795">
       <title
          id="title23-2-1-0-6-0">Resistor_US</title>
@@ -768,60 +763,60 @@
          id="title31-8-2-7-9-69">Resistor_US</title>
     </g>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="m 64.822916,48.947916 h 6.614583 v 21.166668 h -2.645833"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="m 166.15581,75.893336 h 25 v 80.000004 h -10"
        id="path25" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="m 46.302082,79.375001 h 6.614584 l -3e-6,-6.614583 h 5.291666"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="m 96.155802,190.89334 h 25.000008 l -1e-5,-25 h 19.99999"
        id="path26"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="M 39.687499,79.375001 H 33.072915"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="M 71.155807,190.89334 H 46.155804"
        id="path27" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="M 39.687499,62.177084 H 33.072915"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="M 71.155807,125.89334 H 46.155804"
        id="path28" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="m 30.427082,48.947916 2.607712,-6e-6 0.03812,13.229174 -6.614583,-3e-6"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="m 36.155805,75.893336 9.85592,-2.2e-5 0.144075,50.000026 -24.999999,-2e-5"
        id="path29" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="m 46.302082,62.177084 h 6.614584 v 5.291667 h 5.291666"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="m 96.155802,125.89334 h 25.000008 v 20 h 19.99999"
        id="path32" />
     <ellipse
-       ry="0.39901915"
-       rx="0.40116644"
-       cy="62.177086"
-       cx="52.916664"
+       ry="1.5081038"
+       rx="1.5162196"
+       cy="125.89338"
+       cx="121.15579"
        id="path5953-3-4-56-5"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.967559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <ellipse
-       ry="0.39901915"
-       rx="0.40116644"
-       cy="70.114586"
-       cx="71.4375"
+       ry="1.5081038"
+       rx="1.5162196"
+       cy="155.89333"
+       cx="191.15581"
        id="path5953-3-4-56-5-8"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.967559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <text
        id="text5191-0-3-9-3-1-2-70-9-7-9-7"
-       y="89.857445"
-       x="46.484406"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="230.51201"
+       x="96.844902"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="89.857445"
-         x="46.484406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="230.51201"
+         x="96.844902"
          id="tspan5189-6-2-2-6-9-0-9-3-2-4-2"
          sodipodi:role="line">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';baseline-shift:sub;stroke-width:0.999999"
    id="tspan12">4</tspan></tspan></text>
     <g
        id="use25588-4-1-2-1-7"
-       transform="matrix(-1,0,0,-1.0416666,138.90625,52.089865)"
+       transform="matrix(-3.7795276,0,0,-3.9370077,446.15581,87.768419)"
        style="stroke-width:0.979795">
       <title
          id="title23-2-1-0-0-2">Resistor_US</title>
@@ -871,12 +866,12 @@
          id="title31-8-2-7-0-6">Resistor_US</title>
     </g>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="m 52.916666,79.375001 v 6.614585"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="m 121.15581,190.89334 v 25"
        id="path13" />
     <g
        id="use8489"
-       transform="translate(21.033037,-0.00519796)">
+       transform="matrix(3.7795276,0,0,3.7795276,0.65075318,-109.12632)">
       <title
          id="title13">GND</title>
       <path
@@ -904,7 +899,7 @@
     </g>
     <g
        id="use8489-7"
-       transform="translate(46.168453,-11.911449)">
+       transform="matrix(3.7795276,0,0,3.7795276,95.650752,-154.12632)">
       <title
          id="title13-9">GND</title>
       <path
@@ -932,52 +927,43 @@
          id="title20-8">GND</title>
     </g>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="M 52.916666,96.57292 V 92.60417"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="m 121.15581,255.89335 v -15"
        id="path21" />
     <ellipse
-       ry="0.39901915"
-       rx="0.40116644"
-       cy="79.375"
-       cx="52.916664"
+       ry="1.5081038"
+       rx="1.5162196"
+       cy="190.89333"
+       cx="121.15579"
        id="path5953-3-4-5-1"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.967559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583;stroke-dasharray:none"
-       d="m 71.437499,70.114584 h 6.614583"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999;stroke-dasharray:none"
+       d="m 191.15581,155.89334 h 25"
        id="path22" />
     <ellipse
-       ry="0.39901915"
-       rx="0.40116644"
-       cy="70.114586"
-       cx="78.052078"
+       ry="1.5081038"
+       rx="1.5162196"
+       cy="155.89333"
+       cx="216.15579"
        id="path5953-9"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.967559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <path
        inkscape:connector-curvature="0"
        id="path5718-7-5"
-       d="m 78.052082,71.921438 -10e-7,9.963634"
-       style="fill:none;stroke:#000000;stroke-width:0.265095;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM)"
+       d="m 216.15581,162.72239 -1e-5,37.65783"
+       style="fill:none;stroke:#000000;stroke-width:1.00193;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM)"
        sodipodi:nodetypes="cc" />
     <ellipse
-       ry="0.39901915"
-       rx="0.40116644"
-       cy="83.34375"
-       cx="78.052078"
+       ry="1.5081038"
+       rx="1.5162196"
+       cy="205.89333"
+       cx="216.15579"
        id="path5953-9-0"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.967559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 58.208334,48.947915 H 52.916667 V 62.177083"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m 141.15581,75.893333 h -20 v 49.999997"
        id="path7" />
   </g>
-  <metadata
-     id="metadata1">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:title>Electric Symbols</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
 </svg>
