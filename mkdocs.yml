@@ -8,6 +8,7 @@ nav:
   - 'index.md'
   - Sistemi 3° anno:
     - 'sistemi-3/index.md'
+    - 'sistemi-3/diodo.md'
   - Sistemi 4° anno:
     - 'sistemi-4/index.md'
     - 'sistemi-4/programmazione-plc.md'
