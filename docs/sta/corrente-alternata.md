@@ -68,9 +68,30 @@ Gli alternatori di corrente sono macchine elettriche rotanti che permettono di t
 
 ## Il diodo
 
+
 ## Il diodo Zener
 
 ## L'alimentatore
+
+## Raddrizzatore a singola semionda
+
+<figure markdown="span">
+  ![Image title](images/raddrizzatore-singola-semionda.png){ width="500" }
+  <figcaption markdown="span">
+    Raddrizzatore a singola semionda
+  </figcaption>
+</figure>
+
+## Raddrizzatore a doppia semionda
+
+<figure markdown="span">
+  ![Image title](images/raddrizzatore-doppia-semionda.png){ width="500" }
+  <figcaption markdown="span">
+    Raddrizzatore a doppia semionda
+  </figcaption>
+</figure>
+
+## Raddrizzatore a doppia semionda con filtro
 
 
 ## Esercizi
