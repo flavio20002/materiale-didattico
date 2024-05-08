@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="331.26099mm"
-   height="357.18753mm"
-   viewBox="0 0 165.63049 178.59376"
+   width="626.00494"
+   height="675.00006"
+   viewBox="0 0 626.00494 675.00006"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.69932241"
-     inkscape:cx="354.62899"
-     inkscape:cy="279.55632"
+     inkscape:zoom="1.0812486"
+     inkscape:cx="172.02334"
+     inkscape:cy="399.07566"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
@@ -36,10 +36,10 @@
     <inkscape:grid
        id="grid1"
        units="px"
-       originx="0.13229182"
-       originy="52.916672"
-       spacingx="1.3229166"
-       spacingy="1.3229167"
+       originx="165"
+       originy="160"
+       spacingx="5"
+       spacingy="5"
        empcolor="#0099e5"
        empopacity="0.30196078"
        color="#0099e5"
@@ -52,10 +52,10 @@
     <inkscape:page
        x="0"
        y="0"
-       width="165.63049"
-       height="178.59377"
-       id="page9"
-       margin="6.6145835"
+       width="626.00494"
+       height="675.00006"
+       id="page1"
+       margin="25"
        bleed="0" />
   </sodipodi:namedview>
   <defs
@@ -64,23 +64,23 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0.13228911,52.916663)">
+     transform="translate(165,160)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583"
-       d="m 6.6145857,-46.302078 2e-7,165.364598"
+       style="fill:none;stroke:#000000;stroke-width:0.999999"
+       d="M -139.5,-135 V 490.00005"
        id="path1"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583"
-       d="M 6.6145833,19.84375 H 19.843749"
+       style="fill:none;stroke:#000000;stroke-width:0.999999"
+       d="m -139.50001,114.99998 h 49.999995"
        id="path4" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583"
-       d="M 158.75,19.84375 H 145.52083"
+       style="fill:none;stroke:#000000;stroke-width:0.999999"
+       d="M 435.49998,114.99998 H 385.49997"
        id="path8" />
     <g
        id="g7-6-5"
-       transform="translate(-291.04167,-227.54168)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1264.5,-820.00006)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -111,44 +111,44 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70"
-       y="14.552083"
-       x="16.157499"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="94.999977"
+       x="-103.4323"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="14.552083"
-         x="16.157499"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="94.999977"
+         x="-103.4323"
          id="tspan5189-6-2-2-6-9-0-9"
          sodipodi:role="line">PesoMin5</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583"
-       d="m 29.104166,19.843748 h 15.875"
+       style="fill:none;stroke:#000000;stroke-width:0.999999"
+       d="M -54.500014,114.99997 H 5.4999848"
        id="path5" />
     <text
        id="text5191-0-3-9-3-1-2-70-5"
-       y="14.552073"
-       x="46.14534"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="94.999939"
+       x="9.9075718"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="14.552073"
-         x="46.14534"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="94.999939"
+         x="9.9075718"
          id="tspan5189-6-2-2-6-9-0-9-0"
          sodipodi:role="line">SB1</tspan></text>
     <text
        id="text5191-0-3-9-3-3-6-9"
-       y="14.552081"
-       x="126.73558"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="94.999969"
+       x="314.50061"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="14.552081"
-         x="126.73558"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="94.999969"
+         x="314.50061"
          id="tspan5189-6-2-2-6-7-9-3"
          sodipodi:role="line">AttivaMicroRulli</tspan></text>
     <g
        id="g7-6-535"
-       transform="translate(-238.125,-227.54168)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1064.5,-820.00006)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -179,18 +179,18 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-9"
-       y="14.552076"
-       x="69.777687"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="94.999954"
+       x="99.226677"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="14.552076"
-         x="69.777687"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="94.999954"
+         x="99.226677"
          id="tspan5189-6-2-2-6-9-0-3"
          sodipodi:role="line">Funzione</tspan></text>
     <g
        id="g7-6-5-9"
-       transform="translate(-291.04167,-214.31252)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1264.5,-770.00008)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -221,45 +221,45 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-3"
-       y="27.781248"
-       x="10.554909"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="144.99997"
+       x="-124.60744"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="27.781248"
-         x="10.554909"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="144.99997"
+         x="-124.60744"
          id="tspan5189-6-2-2-6-9-0-9-6"
          sodipodi:role="line">PesoIntermedio</tspan></text>
     <text
        id="text5191-0-3-9-3-1-2-70-5-3"
-       y="27.781229"
-       x="46.072121"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="144.99989"
+       x="9.6308374"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="27.781229"
-         x="46.072121"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="144.99989"
+         x="9.6308374"
          id="tspan5189-6-2-2-6-9-0-9-0-1"
          sodipodi:role="line">SB2</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583"
-       d="M 6.6145858,33.072914 H 19.843752"
+       style="fill:none;stroke:#000000;stroke-width:0.999999"
+       d="m -139.5,164.99997 h 49.999996"
        id="path32" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583"
-       d="m 29.104181,33.0729 15.874979,1e-5"
+       style="fill:none;stroke:#000000;stroke-width:0.999999"
+       d="m -54.499958,164.99992 59.9999201,3e-5"
        id="path33" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583"
-       d="M 54.239585,33.072914 H 64.822917 V 19.843747"
+       style="fill:none;stroke:#000000;stroke-width:0.999999"
+       d="m 40.499993,164.99997 h 39.999994 v -50"
        id="path34" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583"
-       d="M 54.239585,19.843747 H 72.760417"
+       style="fill:none;stroke:#000000;stroke-width:0.999999"
+       d="M 40.499993,114.99997 H 110.49999"
        id="path35" />
     <g
        id="g7-6-5-9-9"
-       transform="translate(-291.04167,-201.08335)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1264.5,-720.00007)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -290,41 +290,41 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-3-7"
-       y="41.010418"
-       x="14.469401"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="194.99998"
+       x="-109.81251"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="41.010418"
-         x="14.469401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="194.99998"
+         x="-109.81251"
          id="tspan5189-6-2-2-6-9-0-9-6-1"
          sodipodi:role="line">PesoMag10</tspan></text>
     <text
        id="text5191-0-3-9-3-1-2-70-5-3-9"
-       y="41.010399"
-       x="46.090206"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="194.99991"
+       x="9.699192"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="41.010399"
-         x="46.090206"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         y="194.99991"
+         x="9.699192"
          id="tspan5189-6-2-2-6-9-0-9-0-1-4"
          sodipodi:role="line">SB3</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583"
-       d="m 29.10418,46.30207 15.874979,10e-6"
+       style="fill:none;stroke:#000000;stroke-width:0.999999"
+       d="m -54.499961,214.99993 59.9999194,3e-5"
        id="path33-0" />
     <path
-       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 19.843752,46.302081 H 6.6145858"
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.999999"
+       d="M -89.500004,214.99997 H -139.5"
        id="path2" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 54.239585,46.302081 H 64.822917 V 33.072914"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m 40.499993,214.99997 h 39.999994 v -50"
        id="path3" />
     <g
        id="g7-6-5-9-9-5"
-       transform="translate(-291.04167,-187.85418)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1264.5,-670.00006)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -355,42 +355,42 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-3-7-0"
-       y="54.239594"
-       x="24.403341"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="245.00002"
+       x="-72.266907"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="54.239594"
-         x="24.403341"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="245.00002"
+         x="-72.266907"
          id="tspan5189-6-2-2-6-9-0-9-6-1-9"
          sodipodi:role="line">ProsciuttoSmistato</tspan></text>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 19.843752,59.531249 H 6.6145858"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="M -89.500004,264.99997 H -139.5"
        id="path6" />
     <text
        id="text5191-0-3-9-3-3-6-9-7"
-       y="54.239574"
-       x="140.14821"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="244.99994"
+       x="365.194"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="54.239574"
-         x="140.14821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="244.99994"
+         x="365.194"
          id="tspan5189-6-2-2-6-7-9-3-8"
          sodipodi:role="line">RuotaOrigine</tspan></text>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 145.52083,59.531249 H 158.75"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m 385.49997,264.99997 h 50.00001"
        id="path9" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583"
-       d="m 158.75,-46.302078 -1e-5,165.364598"
+       style="fill:none;stroke:#000000;stroke-width:0.999999"
+       d="m 435.49998,-135 -4e-5,625.00005"
        id="path1-5"
        sodipodi:nodetypes="cc" />
     <g
        id="g7"
-       transform="translate(19.843749)">
+       transform="matrix(3.7795275,0,0,3.7795275,-89.500015,39.99998)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 115.09375,19.84375 h 2.64583"
@@ -416,18 +416,18 @@
     </g>
     <text
        id="text5191-0-3-9-3-3-6-9-0"
-       y="-38.364574"
-       x="140.14821"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="-104.99998"
+       x="365.194"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="-38.364574"
-         x="140.14821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="-104.99998"
+         x="365.194"
          id="tspan5189-6-2-2-6-7-9-3-2"
          sodipodi:role="line">ProsciuttoSmistato</tspan></text>
     <g
        id="g7-9"
-       transform="translate(19.843745,-52.916661)">
+       transform="matrix(3.7795275,0,0,3.7795275,-89.50003,-160)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 115.09375,19.84375 h 2.64583"
@@ -453,7 +453,7 @@
     </g>
     <g
        id="g7-1"
-       transform="translate(19.843749,39.687499)">
+       transform="matrix(3.7795275,0,0,3.7795275,-89.500015,189.99997)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 115.09375,19.84375 h 2.64583"
@@ -479,18 +479,18 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-5-6"
-       y="14.552052"
-       x="105.09091"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="94.999863"
+       x="232.69398"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="14.552052"
-         x="105.09091"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="94.999863"
+         x="232.69398"
          id="tspan5189-6-2-2-6-9-0-9-0-3"
          sodipodi:role="line">ProsciuttoSmistato</tspan></text>
     <g
        id="g19-4-7-5"
-       transform="translate(-210.34376,-236.80209)">
+       transform="matrix(3.7795275,0,0,3.7795275,-959.50004,-855.00003)">
       <g
          id="g9-5-1-2">
         <path
@@ -526,27 +526,27 @@
       </g>
     </g>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 82.020834,19.84375 H 100.54167"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="M 145.49999,114.99998 H 215.5"
        id="path12" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 109.80208,19.84375 H 134.9375"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m 250.49997,114.99998 h 95.00001"
        id="path13" />
     <text
        id="text5191-0-3-9-3-1-2-70-5-3-9-3"
-       y="54.239578"
-       x="49.626614"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="244.99995"
+       x="23.065142"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="54.239578"
-         x="49.626614"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="244.99995"
+         x="23.065142"
          id="tspan5189-6-2-2-6-9-0-9-0-1-4-5"
          sodipodi:role="line">SB1</tspan></text>
     <g
        id="g19-4-7-9-8-1"
-       transform="translate(-265.90625,-197.11458)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1169.5,-705)">
       <g
          id="g9-5-1-4-2-3">
         <path
@@ -583,18 +583,18 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-5-3-9-8-9"
-       y="-38.36459"
-       x="24.416256"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="-105.00004"
+       x="-72.218102"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="-38.36459"
-         x="24.416256"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="-105.00004"
+         x="-72.218102"
          id="tspan5189-6-2-2-6-9-0-9-0-1-4-3-5"
          sodipodi:role="line">PS2</tspan></text>
     <g
        id="g7-6-535-3-5"
-       transform="translate(-291.04166,-280.45835)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1264.5,-1020.0001)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -625,18 +625,18 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-5-3-9-8-4-4"
-       y="-25.13542"
-       x="24.416264"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="-55.000031"
+       x="-72.218071"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="-25.13542"
-         x="24.416264"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="-55.000031"
+         x="-72.218071"
          id="tspan5189-6-2-2-6-9-0-9-0-1-4-3-8-0"
          sodipodi:role="line">PS3</tspan></text>
     <g
        id="g7-6-535-3-1-3"
-       transform="translate(-291.04166,-267.22918)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1264.5,-970.00005)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -667,18 +667,18 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-5-3-9-8-4-3-2"
-       y="-11.906243"
-       x="24.41626"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="-4.9999943"
+       x="-72.218086"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="-11.906243"
-         x="24.41626"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="-4.9999943"
+         x="-72.218086"
          id="tspan5189-6-2-2-6-9-0-9-0-1-4-3-8-5-7"
          sodipodi:role="line">PS4</tspan></text>
     <g
        id="g7-6-535-3-1-9-1"
-       transform="translate(-291.04166,-254.00001)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1264.5,-920.00004)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -708,28 +708,28 @@
       </g>
     </g>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 19.843752,-6.614575 H 6.6145857"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="M -89.500004,15.000012 H -139.5"
        id="path7" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 19.843752,-19.843742 H 6.6145857"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="M -89.500004,-34.999989 H -139.5"
        id="path10" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 19.843752,-33.07291 H 6.6145857"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="M -89.500004,-84.999993 H -139.5"
        id="path11" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 145.52084,-33.072911 H 158.75"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m 385.50001,-84.999997 h 49.99997"
        id="path21" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 54.239584,59.531258 H 134.93751"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="M 40.499989,265.00001 H 345.50002"
        id="path22" />
     <g
        id="g7-6-5-9-9-5-9"
-       transform="translate(-291.04167,-174.625)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1264.5,-620.00001)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -760,30 +760,30 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-3-7-0-2"
-       y="67.468765"
-       x="24.403343"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="295.00003"
+       x="-72.266907"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="67.468765"
-         x="24.403343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="295.00003"
+         x="-72.266907"
          id="tspan5189-6-2-2-6-9-0-9-6-1-9-9"
          sodipodi:role="line">RuotaOrigine</tspan></text>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 29.104168,59.531258 H 44.979169"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="M -54.500007,265.00001 H 5.4999962"
        id="path23" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="m 29.104168,72.760425 h 7.937501 V 59.531258"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m -54.500007,315.00001 h 30.000004 v -50"
        id="path24" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 19.843752,72.760425 H 6.6145859"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="M -89.500004,315.00001 H -139.5"
        id="path25" />
     <g
        id="g7-6-5-9-9-5-3"
-       transform="translate(-291.04167,-154.78125)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1264.5,-545.00001)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -814,18 +814,18 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-3-7-0-3"
-       y="87.312531"
-       x="24.403351"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="370.00009"
+       x="-72.266876"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="87.312531"
-         x="24.403351"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="370.00009"
+         x="-72.266876"
          id="tspan5189-6-2-2-6-9-0-9-6-1-9-7"
          sodipodi:role="line">AttivaMicrorulli</tspan></text>
     <g
        id="g7-6-5-9-9-5-3-9"
-       transform="translate(-291.04167,-141.55208)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1264.5,-495)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -856,29 +856,29 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-3-7-0-3-7"
-       y="100.54169"
-       x="24.403349"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="420.00006"
+       x="-72.266884"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="100.54169"
-         x="24.403349"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="420.00006"
+         x="-72.266884"
          id="tspan5189-6-2-2-6-9-0-9-6-1-9-7-6"
          sodipodi:role="line">Anomalia</tspan></text>
     <text
        id="text5191-0-3-9-3-1-2-70-5-3-9-3-9"
-       y="87.3125"
-       x="57.564117"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="369.99997"
+       x="53.065155"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="87.3125"
-         x="57.564117"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="369.99997"
+         x="53.065155"
          id="tspan5189-6-2-2-6-9-0-9-0-1-4-5-0"
          sodipodi:role="line">ProsciuttoSmistato</tspan></text>
     <g
        id="g19-4-7-9-8-1-5"
-       transform="translate(-257.96876,-164.04166)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1139.5,-579.99999)">
       <g
          id="g9-5-1-4-2-3-5">
         <path
@@ -914,17 +914,17 @@
       </g>
     </g>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="m 29.104178,92.60419 23.81249,-1e-5"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m -54.499969,390.00006 89.999961,-4e-5"
        id="path23-2"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 6.6145859,92.60418 H 19.843753"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m -139.5,390.00002 h 50"
        id="path26" />
     <g
        id="g43-9"
-       transform="translate(14.552084,72.760432)">
+       transform="matrix(3.7795275,0,0,3.7795275,-109.50001,315.00003)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583"
          d="m 66.145833,19.843748 h 2.645833"
@@ -1004,44 +1004,44 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-5-4-4"
-       y="100.24402"
-       x="79.489365"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="418.875"
+       x="135.93224"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
-         y="100.24402"
-         x="79.489365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.999999"
+         y="418.875"
+         x="135.93224"
          id="tspan5189-6-2-2-6-9-0-9-0-3-6"
          sodipodi:role="line">T#10s</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
-       d="m 80.697918,99.218757 h 1.322917"
+       style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-dasharray:none"
+       d="m 140.49999,415 h 5"
        id="path47" />
     <text
        id="text5191-0-3-9-3-1-2-70-5-3-9-9"
-       y="82.020851"
-       x="88.787865"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="350.00003"
+       x="171.07617"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="82.020851"
-         x="88.787865"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="350.00003"
+         x="171.07617"
          id="tspan5189-6-2-2-6-9-0-9-0-4-3"
          sodipodi:role="line">TON_Microrulli</tspan></text>
     <text
        id="text5191-0-3-9-3-1-2-70-5-3-9-3-9-2"
-       y="87.3125"
-       x="114.44953"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="369.99997"
+       x="268.06516"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="87.3125"
-         x="114.44953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="369.99997"
+         x="268.06516"
          id="tspan5189-6-2-2-6-9-0-9-0-1-4-5-0-1"
          sodipodi:role="line">PB1</tspan></text>
     <g
        id="g19-4-7-9-8-1-5-7"
-       transform="translate(-201.08334,-164.04166)">
+       transform="matrix(3.7795275,0,0,3.7795275,-924.50002,-579.99999)">
       <g
          id="g9-5-1-4-2-3-5-1">
         <path
@@ -1078,18 +1078,18 @@
     </g>
     <text
        id="text5191-0-3-9-3-3-6-9-7-0"
-       y="87.3125"
-       x="140.14821"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="369.99997"
+       x="365.194"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="87.3125"
-         x="140.14821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="369.99997"
+         x="365.194"
          id="tspan5189-6-2-2-6-7-9-3-8-0"
          sodipodi:role="line">Anomalia</tspan></text>
     <g
        id="g7-1-6"
-       transform="translate(19.843742,72.76043)">
+       transform="matrix(3.7795275,0,0,3.7795275,-89.500041,315.00003)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 115.09375,19.84375 h 2.64583"
@@ -1114,43 +1114,43 @@
          d="m 17.569442,-121.73745 a 2.6458333,2.6458333 0 0 1 2.292671,-1.29375 2.6458333,2.6458333 0 0 1 2.274495,1.32545" />
     </g>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 96.572917,92.60418 H 109.80208"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m 200.49999,390.00002 h 49.99998"
        id="path27" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="m 119.0625,92.60418 h 15.87501"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m 285.49998,390.00002 h 60.00004"
        id="path28" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 145.52083,92.60418 158.8823,92.471888"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m 385.49997,390.00002 50.50004,-0.5"
        id="path29" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 62.177085,92.60418 H 80.697917"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="M 70.499993,390.00002 H 140.49999"
        id="path30" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 19.843753,105.83335 H 6.6145859"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m -89.5,440.00004 h -50"
        id="path31" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 29.104168,105.83335 H 103.1875 V 92.60418"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="M -54.500007,440.00004 H 225.49998 v -50.00002"
        id="path36" />
     <text
        id="text5191-0-3-9-3-1-2-70-5-3-9-8-4-3-2-7"
-       y="1.3229305"
-       x="24.41625"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="45.000031"
+       x="-72.218124"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="1.3229305"
-         x="24.41625"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="45.000031"
+         x="-72.218124"
          id="tspan5189-6-2-2-6-9-0-9-0-1-4-3-8-5-7-1"
          sodipodi:role="line">ProsciuttoSmistato</tspan></text>
     <g
        id="g7-6-535-3-1-9-1-0"
-       transform="translate(-291.04167,-240.77084)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1264.5,-870.00003)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -1180,12 +1180,12 @@
       </g>
     </g>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 6.6145858,6.6145969 H 19.843752"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m -139.5,65.000031 h 49.999996"
        id="path37" />
     <g
        id="g7-6-5-5"
-       transform="translate(-265.90625,-227.54167)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1169.5,-820.00002)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -1216,7 +1216,7 @@
     </g>
     <g
        id="g7-6-5-3"
-       transform="translate(-265.90625,-214.3125)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1169.5,-770.00001)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -1247,7 +1247,7 @@
     </g>
     <g
        id="g7-6-5-8"
-       transform="translate(-265.90625,-201.08333)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1169.5,-720)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 317.50001,247.38542 h 2.64584"
@@ -1278,18 +1278,18 @@
     </g>
     <text
        id="text5191-0-3-9-3-1-2-70-5-63"
-       y="-38.364594"
-       x="77.309669"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="-105.00005"
+       x="127.69402"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="-38.364594"
-         x="77.309669"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.999999"
+         y="-105.00005"
+         x="127.69402"
          id="tspan5189-6-2-2-6-9-0-9-0-7"
          sodipodi:role="line">FineSmistamento</tspan></text>
     <g
        id="g19-4-7-2"
-       transform="translate(-238.12501,-289.71875)">
+       transform="matrix(3.7795275,0,0,3.7795275,-1064.5,-1055)">
       <g
          id="g9-5-1-5">
         <path
@@ -1325,24 +1325,24 @@
       </g>
     </g>
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 29.104168,-33.07291 H 72.760414"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="M -54.500007,-84.999993 H 110.49998"
        id="path14" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="m 82.02083,-33.07291 52.91667,-10e-7"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m 145.49997,-84.999993 200.00001,-4e-6"
        id="path15" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="m 47.624999,-33.07291 v 13.229167 H 29.104168"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m 15.499983,-84.999993 v 50.000001 h -69.99999"
        id="path16" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 29.104168,-6.6145754 H 47.624999 V -19.843743"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m -54.500007,15.00001 h 69.99999 v -50.000002"
        id="path17" />
     <path
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.264583"
-       d="M 29.104168,6.6145919 H 47.624999 V -6.6145754"
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.999999"
+       d="m -54.500007,65.000012 h 69.99999 V 15.00001"
        id="path18" />
   </g>
 </svg>

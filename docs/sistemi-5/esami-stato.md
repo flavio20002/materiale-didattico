@@ -176,7 +176,7 @@ END_VAR
 Nella prima parte del programma, vengono gestiti i pulsanti e le luci di segnalazione. La variabile Stop indica che è stato richiesto uno stop, che può avvenire perché il pulsante di stop è stato premuto, oppure perché uno dei contenitori è pieno. Il pulsante di stop ha effetto solo una volta terminato lo smistamento del prosciutto corrente in modo da lasciare la macchina in uno stato gestito.
 
 <figure markdown="span">
-  ![Image title](images/esame2018_ladder.svg){ width="500" }
+  ![Image title](images/esame2018_ladder.svg)
   <figcaption markdown="span">
     Programma Ladder: gestione dei pulsanti e segnalazioni.
   </figcaption>
@@ -185,7 +185,7 @@ Nella prima parte del programma, vengono gestiti i pulsanti e le luci di segnala
 Nella seconda parte del programma, vengono gestiti i motori. Si è ipotizzato che il motore M1 debba fermarsi una volta iniziata la procedura di smistamento, mentre i motori M2 ed M3 possono restare sempre in movimento durante il funzionamento dell'impianto. Inoltre, il motore M1 richiede che la piattaforma sia ruotata nella posizione di partenza  (segnale SB1 a livello alto) per poter funzionare.
 
 <figure markdown="span">
-  ![Image title](images/esame2018_ladder_2.svg){ width="500" }
+  ![Image title](images/esame2018_ladder_2.svg)
   <figcaption markdown="span">
     Programma Ladder: gestione dei motori.
   </figcaption>
@@ -194,7 +194,7 @@ Nella seconda parte del programma, vengono gestiti i motori. Si è ipotizzato ch
 Nella terza parte del programma, viene gestito la pesatura del prosciutto. Un timer TON di 200 ms permette di evitare falsi positivi sull'effettiva presenza del prosciutto sulla linea di arrivo. Si ritiene sufficiente l'inerzia del motore del nastro per trasferire il prosciutto sulla piattaforma girevole. Tale aspetto andrà verificato in fase di collaudo dell'impianto e può essere modificato inserendo un timer di tipo TOF per lo spegnimento del motore M1.
 
 <figure markdown="span">
-  ![Image title](images/esame2018_ladder_3.svg){ width="500" }
+  ![Image title](images/esame2018_ladder_3.svg)
   <figcaption markdown="span">
     Programma Ladder: gestione della pesatura.
   </figcaption>
@@ -203,7 +203,7 @@ Nella terza parte del programma, viene gestito la pesatura del prosciutto. Un ti
 Nella quarta parte del programma, viene gestita la rotazione della piattaforma. Se il peso rilevato è minore di 5 Kg, non vi sarà alcuna rotazione. In questa parte di programma viene gestita anche la rotazione verso la posizione iniziale, effettuata alla fine dello smistamento.
 
 <figure markdown="span">
-  ![Image title](images/esame2018_ladder_4.svg){ width="500" }
+  ![Image title](images/esame2018_ladder_4.svg)
   <figcaption markdown="span">
     Programma Ladder: rotazione della piattaforma.
   </figcaption>
@@ -212,7 +212,7 @@ Nella quarta parte del programma, viene gestita la rotazione della piattaforma. 
 Nella quinta parte del programma, viene gestito lo smistamento del prosciutto nella linea corretta. Come prima cosa vengono attivati i micro rulli ed infine viene verificata l'effettiva presenza del prosciutto nel contenitore corretto tramite il segnale della fotocellula. Nel caso in cui il motore dei micro rulli rimanha acceso per più di 10 secondi senza che venga rilevata la presenza di un prosciutto in uno dei contenitori, l'impianto passa in condizione di anomalia e si ferma. In tal caso, l'operatore dovrò dapprima verificare la presenza di prosciutti bloccati e successivamente verificare il funzionamento delle fotocellule.
 
 <figure markdown="span">
-  ![Image title](images/esame2018_ladder_5.svg){ width="550" }
+  ![Image title](images/esame2018_ladder_5.svg)
   <figcaption markdown="span">
     Programma Ladder: smistamento del prosciutto.
   </figcaption>
