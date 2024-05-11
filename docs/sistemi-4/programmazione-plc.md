@@ -124,12 +124,12 @@ Di seguito viene descritto il principio di funzionamento.
 
 - Quando l'ingresso LOAD ha valore logico **TRUE**, la variabile di conteggio CV viene inizializzata con il valore contenuto nella variabile d'ingresso PV (preset value). Se la variabile di ingresso CD ha un fronte di salita da **FALSE** a **TRUE**, CV viene decrementato di 1, finché CV è maggiore di zero. Il valore di Q vale **TRUE** quando CV è minore o uguale a zero.
 
-### Up Counter (CUD)
+### Up Counter (CTU)
 
-Il Function Block CUD (Down Counter) permette di contare in avanti.
+Il Function Block CTU (Up Counter) permette di contare in avanti.
 
 <figure markdown="span">
-  ![Image title](images/CUD.svg){ width="300" }
+  ![Image title](images/CTU.svg){ width="300" }
   <figcaption markdown="span">
     Blocco funzione CUD
   </figcaption>
