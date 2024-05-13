@@ -1,4 +1,4 @@
-# Programmazione dei PLC
+# I PLC
 
 In questa sezione sono descritti i principi per la programmazione dei PLC
 
@@ -12,7 +12,27 @@ Il PLC ha progressivamente sostituito la logica cablata nell'ambito dell'automaz
 - Minore consumo di elettricità.
 - Minore costo di realizzazione.
 
-## Linguaggio Ladder
+## Linguaggi di programmazione
+
+Lo standard IEC 61131 è uno standard internazionale per la programmazione dei
+controllori logici programmabili (PLC). La sezione 3 dello standard IEC 61131 definisce cinque linguaggi di programmazione utilizzati nell’automazione industriale. La scelta del linguaggio IEC 61131 dipende dalle esigenze specifiche dell’applicazione in quanto ogni linguaggio ha propri vantaggi e limitazioni. È possibile utilizzare più linguaggi all’interno di uno stesso progetto per sfruttare al meglio le loro caratteristiche.
+
+I linguaggi di tipo testuale sono:
+
+- Instruction List (IL). È un linguaggio testuale di basso livello che ricorda l'assembler. Viene utilizzato per programmi semplici e ottimizzati.
+
+- Structured Text (ST). È un linguaggio testuale di alto livello che ricorda il C. Contiene tutti gli elementi fondamentali di un linguaggi di programmazione, come le istruzioni IF, CASE, WHILE, FOR e permette di quindi di realizzare programmi particolarmente complessi come le macchine a stati finiti. Può essere inoltre usato per realizzare Function Block (FB) complessi utilizzabili all'interno di programmi scritti in altri linguaggi di programmazione.
+
+I linguaggio di tipo grafico sono:
+
+- Ladder Diagram o Diagrammi a contatti (LD): basato su diagrammi a contatti e bobine, simula il
+funzionamento di un circuito elettrico. Utilizzato principalmente per controlli sequenziali.
+
+- Function Block Diagram (FBD): basato sulla rappresentazione grafica di blocchi funzionali interconnessi.
+
+- Sequential Functional Chart (SFC): linguaggio basato su grafici di stato e diagrammi di flusso. 
+
+## Le variabili
 
 ## Blocchi funzione
 
@@ -131,7 +151,7 @@ Il Function Block CTU (Up Counter) permette di contare in avanti.
 <figure markdown="span">
   ![Image title](images/CTU.svg){ width="300" }
   <figcaption markdown="span">
-    Blocco funzione CUD
+    Blocco funzione CTU
   </figcaption>
 </figure>
 
@@ -190,6 +210,30 @@ Una funzione è una porzione di codice che può essere chiamata da un programma 
 | LE    | Compara due variabili e restituisce TRUE se la prima è minore o uguale alla seconda |
 | LT    | Compara due variabili e restituisce TRUE se la prima è minore alla seconda |
 
+## Linguaggio Ladder
+
+Il linguaggio Ladder si basa su simboli di provenienza elettrica ed è nato per agevolare i tecnici abituati a sistemi di controllo logico con i relè elettromeccanici.
+
+- È costituito in linee orizzontali dette rung. Ciascun rung può contenere contatti,
+bobine, blocchi funzione e funzioni
+
+- Ciascun rung deve essere connesso al binario di potenza sinistro (left power rail), mentre il collegamento con quello destro è opzionale.
+
+-  L’ordine di esecuzione del programma è da sinistra e destra e poi dall'alto verso il
+basso.
+
+### Binario di potenza, alimentazione o power rail
+
+| Nome      | Simbolo      | Descrizione                          |
+| ----------- | ----------- | ------------------------------------ |
+| Power rail       | `GET`       | Detto anche binario di potenza o di alimentazione, sono i montanti della scala e rappresentano l’alimentazione del circuito (a sinistra) e la massa del circuito (a destra). Il collegamento a sinistra è obbligatorio.  |
+| Rung       | `PUT`       | Sono i pioli della scala e rappresentano i collegamenti elettrici. A destra troviamo i Contatti, mentre a sinistra le Bobine |
+| `GET`       | `DELETE`    | :material-close:     Delete resource |
+
+Sono i montanti della scala e rappresentano
+l’alimentazione del circuito (a sinistra) e la massa del
+circuito (a destra). Il collegamento a sinistra è
+obbligatorio.
 
 ## Linguaggio ST
 
