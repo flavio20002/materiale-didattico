@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="11.223889"
-     inkscape:cx="288.67001"
-     inkscape:cy="76.488643"
+     inkscape:zoom="2.4825831"
+     inkscape:cx="240.87814"
+     inkscape:cy="114.59838"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
@@ -66,23 +66,23 @@
      id="layer1"
      transform="translate(-4.999998,-4.7354156)">
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        d="M 14.999999,39.999999 H 34.210635"
        id="path4-8"
        sodipodi:nodetypes="cc" />
     <circle
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="path4"
        cx="40"
        cy="40"
        r="5" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        d="m 44.999998,40 10.000001,-2e-6"
        id="path5"
        sodipodi:nodetypes="cc" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="rect6"
        width="20"
        height="9.9999981"
@@ -90,30 +90,30 @@
        y="35" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        x="62.532867"
        y="41.115589"
        id="text6"><tspan
          sodipodi:role="line"
          id="tspan6"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="62.532867"
          y="41.115589">K<tspan
    style="font-size:65%;baseline-shift:sub;fill:#000000;stroke:none"
    id="tspan7">P</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        x="32.27739"
        y="37.345417"
        id="text6-3"><tspan
          sodipodi:role="line"
          id="tspan6-4"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="32.27739"
          y="37.345417">+</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="rect6-4"
        width="20"
        height="9.9999981"
@@ -121,29 +121,29 @@
        y="35" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        x="110.40185"
        y="41.182354"
        id="text6-4"><tspan
          sodipodi:role="line"
          id="tspan6-6"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="110.40185"
          y="41.182354">G<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan19">M</tspan></tspan></text>
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        d="m 125.00002,39.999997 h 19.15284"
        id="path5-1-6"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
-       d="m 134.73543,39.999996 v 20 l -33.73542,10e-7"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       d="m 135.00002,39.999998 v 19.999999 l -34.00001,0"
        id="path9"
        sodipodi:nodetypes="ccc" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="rect6-4-7"
        width="20"
        height="9.9999981"
@@ -151,76 +151,76 @@
        y="54.999996" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        x="88.409409"
        y="61.538918"
        id="text6-4-0"><tspan
          sodipodi:role="line"
          id="tspan6-6-8"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="88.409409"
          y="61.538918">H</tspan></text>
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        d="m 80.000005,59.999997 -40.000003,2e-6 -1e-6,-14.000001"
        id="path10"
        sodipodi:nodetypes="ccc" />
     <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="path11"
        cx="135.00003"
        cy="40"
        r="1" />
     <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="path11-3"
        cx="24.999998"
        cy="39.999996"
        r="1" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        x="35.664726"
        y="48.372887"
        id="text6-3-1"><tspan
          sodipodi:role="line"
          id="tspan6-4-0"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="35.664726"
          y="48.372887">–</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        x="15.25536"
        y="37.294441"
        id="text6-36"><tspan
          sodipodi:role="line"
          id="tspan6-3"
-         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="15.25536"
          y="37.294441">V<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan13">REF</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        x="48.965672"
        y="37.999996"
        id="text6-36-7"><tspan
          sodipodi:role="line"
          id="tspan6-3-7"
-         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="48.965672"
          y="37.999996">E</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        x="140.48253"
        y="37.256325"
        id="text6-36-7-2"><tspan
          sodipodi:role="line"
          id="tspan6-3-7-3"
-         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="140.48253"
          y="37.256325">Ω</tspan></text>
     <path
@@ -239,47 +239,47 @@
        id="path13-4-3"
        sodipodi:nodetypes="cccc" />
     <circle
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="path4-89"
        cx="90.264603"
        cy="40"
        r="5" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        d="m 95.264603,40.000001 8.735417,-2e-6"
        id="path5-2"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        x="82.267815"
        y="37.347717"
        id="text6-3-14"><tspan
          sodipodi:role="line"
          id="tspan6-4-4"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="82.267815"
          y="37.347717">+</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        x="92.267822"
        y="34.347717"
        id="text6-3-1-1"><tspan
          sodipodi:role="line"
          id="tspan6-4-0-5"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="92.267822"
          y="34.347717">+</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        x="97.879845"
        y="37.294441"
        id="text6-36-7-6"><tspan
          sodipodi:role="line"
          id="tspan6-3-7-7"
-         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="97.879845"
          y="37.294441">V<tspan
    style="font-size:65%;baseline-shift:sub"
@@ -310,39 +310,39 @@
        id="path13-4-6"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        d="m 75.000011,39.999998 9.000001,1e-6"
        id="path14"
        sodipodi:nodetypes="cc" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="rect6-0"
        width="20"
        height="9.9999981"
        x="45"
        y="14.999999" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        d="m 24.999998,39.999998 v -20"
        id="path15" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        d="M 24.999998,19.999998 H 45"
        id="path16" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        d="m 65.000002,19.999998 25.00001,0 0,14"
        id="path17"
        sodipodi:nodetypes="ccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        x="52.359543"
        y="21.115587"
        id="text6-2"><tspan
          sodipodi:role="line"
          id="tspan6-43"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="52.359543"
          y="21.115587">K<tspan
    style="font-size:65%;baseline-shift:sub"
