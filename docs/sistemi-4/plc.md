@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # I PLC
 
 In questa sezione sono descritti i principi per la programmazione dei PLC

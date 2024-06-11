@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Esami di Stato
 
 ## Sessione ordinaria 2018

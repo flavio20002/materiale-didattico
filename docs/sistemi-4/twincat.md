@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Ambiente di sviluppo TwinCAT
 
 Il tool principale per programmare i PLC Beckhoff è denominato TwinCAT che significa "The Windows Control and Automation Technology", ovvero "Tecnologia di controllo e automazione per Windows". TwinCAT è suddiviso in diversi moduli, ma i due principali sono:  

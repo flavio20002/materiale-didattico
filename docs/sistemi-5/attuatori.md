@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 ## Motore in corrente continua
 
 Un motore in corrente continua è costiuito da uno statore a magnete permanente e da un rotore in ferro sul quale sono presenti degli avvolgimenti.

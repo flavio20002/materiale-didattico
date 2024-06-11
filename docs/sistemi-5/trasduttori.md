@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Trasduttori
 
 ## Trasduttori di velocità e posizione

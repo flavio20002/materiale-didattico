@@ -2,9 +2,8 @@ site_name: Prof. Flavio Barisi
 site_url: https://www.flaviobarisi.it
 theme:
   name: material
+  custom_dir: overrides
   language: it
-extra:
-  disqus: materiale-didattico
 
 nav:
   - 'index.md'
