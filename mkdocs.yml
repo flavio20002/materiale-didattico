@@ -3,6 +3,8 @@ site_url: https://www.flaviobarisi.it
 theme:
   name: material
   language: it
+extra:
+  disqus: materiale-didattico
 
 nav:
   - 'index.md'
